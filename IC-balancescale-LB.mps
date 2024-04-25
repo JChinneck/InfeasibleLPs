@@ -1,0 +1,4380 @@
+NAME IC-balancescale-LB
+ROWS
+ G row1
+ L row2
+ L row3
+ L row4
+ L row5
+ L row6
+ L row7
+ L row8
+ L row9
+ L row10
+ L row11
+ L row12
+ L row13
+ L row14
+ L row15
+ L row16
+ L row17
+ L row18
+ L row19
+ L row20
+ L row21
+ L row22
+ L row23
+ L row24
+ L row25
+ L row26
+ G row27
+ L row28
+ L row29
+ L row30
+ G row31
+ L row32
+ L row33
+ L row34
+ L row35
+ L row36
+ L row37
+ L row38
+ L row39
+ L row40
+ L row41
+ L row42
+ L row43
+ L row44
+ L row45
+ L row46
+ L row47
+ L row48
+ L row49
+ L row50
+ L row51
+ L row52
+ G row53
+ L row54
+ L row55
+ L row56
+ L row57
+ L row58
+ L row59
+ L row60
+ G row61
+ L row62
+ L row63
+ L row64
+ L row65
+ L row66
+ L row67
+ L row68
+ L row69
+ L row70
+ L row71
+ L row72
+ L row73
+ L row74
+ L row75
+ L row76
+ L row77
+ L row78
+ G row79
+ L row80
+ L row81
+ G row82
+ L row83
+ L row84
+ L row85
+ L row86
+ L row87
+ L row88
+ L row89
+ L row90
+ G row91
+ L row92
+ L row93
+ L row94
+ L row95
+ L row96
+ L row97
+ L row98
+ L row99
+ L row100
+ L row101
+ L row102
+ L row103
+ L row104
+ G row105
+ L row106
+ L row107
+ L row108
+ L row109
+ L row110
+ L row111
+ L row112
+ L row113
+ L row114
+ L row115
+ L row116
+ L row117
+ L row118
+ L row119
+ L row120
+ G row121
+ L row122
+ L row123
+ L row124
+ L row125
+ L row126
+ G row127
+ L row128
+ L row129
+ L row130
+ G row131
+ L row132
+ L row133
+ L row134
+ L row135
+ L row136
+ L row137
+ L row138
+ L row139
+ L row140
+ L row141
+ L row142
+ L row143
+ L row144
+ L row145
+ L row146
+ L row147
+ L row148
+ L row149
+ L row150
+ L row151
+ L row152
+ L row153
+ G row154
+ L row155
+ L row156
+ G row157
+ L row158
+ L row159
+ L row160
+ L row161
+ L row162
+ L row163
+ L row164
+ L row165
+ G row166
+ L row167
+ L row168
+ L row169
+ L row170
+ L row171
+ L row172
+ L row173
+ L row174
+ L row175
+ L row176
+ L row177
+ L row178
+ L row179
+ L row180
+ L row181
+ L row182
+ G row183
+ L row184
+ L row185
+ L row186
+ G row187
+ L row188
+ L row189
+ L row190
+ L row191
+ L row192
+ L row193
+ L row194
+ L row195
+ L row196
+ L row197
+ L row198
+ L row199
+ L row200
+ L row201
+ L row202
+ L row203
+ L row204
+ L row205
+ L row206
+ L row207
+ L row208
+ G row209
+ L row210
+ L row211
+ L row212
+ L row213
+ L row214
+ L row215
+ L row216
+ G row217
+ L row218
+ L row219
+ L row220
+ L row221
+ L row222
+ L row223
+ L row224
+ L row225
+ L row226
+ L row227
+ L row228
+ L row229
+ L row230
+ L row231
+ L row232
+ L row233
+ L row234
+ G row235
+ L row236
+ L row237
+ L row238
+ L row239
+ L row240
+ L row241
+ L row242
+ L row243
+ L row244
+ L row245
+ L row246
+ G row247
+ L row248
+ L row249
+ L row250
+ L row251
+ L row252
+ G row253
+ L row254
+ L row255
+ L row256
+ L row257
+ L row258
+ L row259
+ L row260
+ G row261
+ L row262
+ L row263
+ L row264
+ L row265
+ L row266
+ L row267
+ L row268
+ L row269
+ L row270
+ L row271
+ L row272
+ L row273
+ L row274
+ L row275
+ L row276
+ L row277
+ L row278
+ L row279
+ L row280
+ L row281
+ L row282
+ G row283
+ L row284
+ L row285
+ L row286
+ G row287
+ L row288
+ L row289
+ L row290
+ L row291
+ L row292
+ L row293
+ L row294
+ L row295
+ L row296
+ L row297
+ L row298
+ L row299
+ L row300
+ L row301
+ L row302
+ L row303
+ L row304
+ L row305
+ L row306
+ L row307
+ L row308
+ L row309
+ L row310
+ L row311
+ L row312
+ G row313
+ L row314
+ L row315
+ L row316
+ L row317
+ L row318
+ L row319
+ L row320
+ L row321
+ L row322
+ L row323
+ L row324
+ L row325
+ L row326
+ L row327
+ L row328
+ L row329
+ L row330
+ L row331
+ L row332
+ L row333
+ L row334
+ L row335
+ L row336
+ L row337
+ L row338
+ G row339
+ L row340
+ L row341
+ L row342
+ G row343
+ L row344
+ L row345
+ L row346
+ L row347
+ L row348
+ L row349
+ L row350
+ L row351
+ L row352
+ L row353
+ L row354
+ L row355
+ L row356
+ L row357
+ L row358
+ L row359
+ L row360
+ L row361
+ L row362
+ L row363
+ L row364
+ G row365
+ L row366
+ L row367
+ L row368
+ L row369
+ L row370
+ L row371
+ L row372
+ G row373
+ L row374
+ L row375
+ L row376
+ L row377
+ L row378
+ G row379
+ L row380
+ L row381
+ G row382
+ L row383
+ L row384
+ L row385
+ L row386
+ L row387
+ L row388
+ L row389
+ L row390
+ G row391
+ L row392
+ L row393
+ L row394
+ L row395
+ L row396
+ L row397
+ L row398
+ L row399
+ L row400
+ L row401
+ L row402
+ L row403
+ L row404
+ L row405
+ L row406
+ L row407
+ L row408
+ G row409
+ L row410
+ L row411
+ L row412
+ L row413
+ L row414
+ L row415
+ L row416
+ G row417
+ L row418
+ L row419
+ L row420
+ L row421
+ L row422
+ L row423
+ L row424
+ L row425
+ L row426
+ L row427
+ L row428
+ L row429
+ L row430
+ L row431
+ L row432
+ L row433
+ L row434
+ L row435
+ L row436
+ L row437
+ L row438
+ G row439
+ L row440
+ L row441
+ L row442
+ G row443
+ L row444
+ L row445
+ L row446
+ L row447
+ L row448
+ L row449
+ L row450
+ L row451
+ L row452
+ L row453
+ L row454
+ L row455
+ L row456
+ L row457
+ L row458
+ L row459
+ L row460
+ L row461
+ L row462
+ L row463
+ L row464
+ L row465
+ L row466
+ L row467
+ L row468
+ G row469
+ L row470
+ L row471
+ L row472
+ L row473
+ L row474
+ L row475
+ L row476
+ L row477
+ L row478
+ L row479
+ L row480
+ L row481
+ L row482
+ L row483
+ L row484
+ L row485
+ L row486
+ L row487
+ L row488
+ L row489
+ L row490
+ L row491
+ L row492
+ L row493
+ L row494
+ G row495
+ L row496
+ L row497
+ L row498
+ G row499
+ L row500
+ L row501
+ L row502
+ L row503
+ L row504
+ G row505
+ L row506
+ L row507
+ L row508
+ L row509
+ L row510
+ L row511
+ L row512
+ L row513
+ L row514
+ L row515
+ L row516
+ L row517
+ L row518
+ L row519
+ L row520
+ G row521
+ L row522
+ L row523
+ L row524
+ L row525
+ L row526
+ L row527
+ L row528
+ L row529
+ L row530
+ L row531
+ L row532
+ L row533
+ L row534
+ G row535
+ L row536
+ L row537
+ L row538
+ L row539
+ L row540
+ L row541
+ L row542
+ L row543
+ L row544
+ L row545
+ L row546
+ G row547
+ L row548
+ L row549
+ L row550
+ L row551
+ L row552
+ L row553
+ L row554
+ L row555
+ L row556
+ L row557
+ L row558
+ L row559
+ L row560
+ L row561
+ L row562
+ L row563
+ L row564
+ G row565
+ L row566
+ L row567
+ L row568
+ L row569
+ L row570
+ L row571
+ L row572
+ G row573
+ L row574
+ L row575
+ L row576
+ L row577
+ L row578
+ L row579
+ L row580
+ L row581
+ L row582
+ L row583
+ L row584
+ L row585
+ L row586
+ L row587
+ L row588
+ L row589
+ L row590
+ L row591
+ L row592
+ L row593
+ L row594
+ G row595
+ L row596
+ L row597
+ L row598
+ G row599
+ L row600
+ L row601
+ L row602
+ L row603
+ L row604
+ L row605
+ L row606
+ L row607
+ L row608
+ L row609
+ L row610
+ L row611
+ L row612
+ L row613
+ L row614
+ L row615
+ L row616
+ L row617
+ L row618
+ L row619
+ L row620
+ L row621
+ L row622
+ L row623
+ L row624
+ G row625
+COLUMNS
+ col1 row1 1.000000
+ col1 row2 1.000000
+ col1 row3 1.000000
+ col1 row4 1.000000
+ col1 row5 1.000000
+ col1 row6 1.000000
+ col1 row7 1.000000
+ col1 row8 1.000000
+ col1 row9 1.000000
+ col1 row10 1.000000
+ col1 row11 1.000000
+ col1 row12 1.000000
+ col1 row13 1.000000
+ col1 row14 1.000000
+ col1 row15 1.000000
+ col1 row16 1.000000
+ col1 row17 1.000000
+ col1 row18 1.000000
+ col1 row19 1.000000
+ col1 row20 1.000000
+ col1 row21 1.000000
+ col1 row22 1.000000
+ col1 row23 1.000000
+ col1 row24 1.000000
+ col1 row25 1.000000
+ col1 row26 1.000000
+ col1 row27 1.000000
+ col1 row28 1.000000
+ col1 row29 1.000000
+ col1 row30 1.000000
+ col1 row31 1.000000
+ col1 row32 1.000000
+ col1 row33 1.000000
+ col1 row34 1.000000
+ col1 row35 1.000000
+ col1 row36 1.000000
+ col1 row37 1.000000
+ col1 row38 1.000000
+ col1 row39 1.000000
+ col1 row40 1.000000
+ col1 row41 1.000000
+ col1 row42 1.000000
+ col1 row43 1.000000
+ col1 row44 1.000000
+ col1 row45 1.000000
+ col1 row46 1.000000
+ col1 row47 1.000000
+ col1 row48 1.000000
+ col1 row49 1.000000
+ col1 row50 1.000000
+ col1 row51 1.000000
+ col1 row52 1.000000
+ col1 row53 1.000000
+ col1 row54 1.000000
+ col1 row55 1.000000
+ col1 row56 1.000000
+ col1 row57 1.000000
+ col1 row58 1.000000
+ col1 row59 1.000000
+ col1 row60 1.000000
+ col1 row61 1.000000
+ col1 row62 1.000000
+ col1 row63 1.000000
+ col1 row64 1.000000
+ col1 row65 1.000000
+ col1 row66 1.000000
+ col1 row67 1.000000
+ col1 row68 1.000000
+ col1 row69 1.000000
+ col1 row70 1.000000
+ col1 row71 1.000000
+ col1 row72 1.000000
+ col1 row73 1.000000
+ col1 row74 1.000000
+ col1 row75 1.000000
+ col1 row76 1.000000
+ col1 row77 1.000000
+ col1 row78 1.000000
+ col1 row79 1.000000
+ col1 row80 1.000000
+ col1 row81 1.000000
+ col1 row82 1.000000
+ col1 row83 1.000000
+ col1 row84 1.000000
+ col1 row85 1.000000
+ col1 row86 1.000000
+ col1 row87 1.000000
+ col1 row88 1.000000
+ col1 row89 1.000000
+ col1 row90 1.000000
+ col1 row91 1.000000
+ col1 row92 1.000000
+ col1 row93 1.000000
+ col1 row94 1.000000
+ col1 row95 1.000000
+ col1 row96 1.000000
+ col1 row97 1.000000
+ col1 row98 1.000000
+ col1 row99 1.000000
+ col1 row100 1.000000
+ col1 row101 1.000000
+ col1 row102 1.000000
+ col1 row103 1.000000
+ col1 row104 1.000000
+ col1 row105 1.000000
+ col1 row106 1.000000
+ col1 row107 1.000000
+ col1 row108 1.000000
+ col1 row109 1.000000
+ col1 row110 1.000000
+ col1 row111 1.000000
+ col1 row112 1.000000
+ col1 row113 1.000000
+ col1 row114 1.000000
+ col1 row115 1.000000
+ col1 row116 1.000000
+ col1 row117 1.000000
+ col1 row118 1.000000
+ col1 row119 1.000000
+ col1 row120 1.000000
+ col1 row121 1.000000
+ col1 row122 1.000000
+ col1 row123 1.000000
+ col1 row124 1.000000
+ col1 row125 1.000000
+ col1 row126 2.000000
+ col1 row127 2.000000
+ col1 row128 2.000000
+ col1 row129 2.000000
+ col1 row130 2.000000
+ col1 row131 2.000000
+ col1 row132 2.000000
+ col1 row133 2.000000
+ col1 row134 2.000000
+ col1 row135 2.000000
+ col1 row136 2.000000
+ col1 row137 2.000000
+ col1 row138 2.000000
+ col1 row139 2.000000
+ col1 row140 2.000000
+ col1 row141 2.000000
+ col1 row142 2.000000
+ col1 row143 2.000000
+ col1 row144 2.000000
+ col1 row145 2.000000
+ col1 row146 2.000000
+ col1 row147 2.000000
+ col1 row148 2.000000
+ col1 row149 2.000000
+ col1 row150 2.000000
+ col1 row151 2.000000
+ col1 row152 2.000000
+ col1 row153 2.000000
+ col1 row154 2.000000
+ col1 row155 2.000000
+ col1 row156 2.000000
+ col1 row157 2.000000
+ col1 row158 2.000000
+ col1 row159 2.000000
+ col1 row160 2.000000
+ col1 row161 2.000000
+ col1 row162 2.000000
+ col1 row163 2.000000
+ col1 row164 2.000000
+ col1 row165 2.000000
+ col1 row166 2.000000
+ col1 row167 2.000000
+ col1 row168 2.000000
+ col1 row169 2.000000
+ col1 row170 2.000000
+ col1 row171 2.000000
+ col1 row172 2.000000
+ col1 row173 2.000000
+ col1 row174 2.000000
+ col1 row175 2.000000
+ col1 row176 2.000000
+ col1 row177 2.000000
+ col1 row178 2.000000
+ col1 row179 2.000000
+ col1 row180 2.000000
+ col1 row181 2.000000
+ col1 row182 2.000000
+ col1 row183 2.000000
+ col1 row184 2.000000
+ col1 row185 2.000000
+ col1 row186 2.000000
+ col1 row187 2.000000
+ col1 row188 2.000000
+ col1 row189 2.000000
+ col1 row190 2.000000
+ col1 row191 2.000000
+ col1 row192 2.000000
+ col1 row193 2.000000
+ col1 row194 2.000000
+ col1 row195 2.000000
+ col1 row196 2.000000
+ col1 row197 2.000000
+ col1 row198 2.000000
+ col1 row199 2.000000
+ col1 row200 2.000000
+ col1 row201 2.000000
+ col1 row202 2.000000
+ col1 row203 2.000000
+ col1 row204 2.000000
+ col1 row205 2.000000
+ col1 row206 2.000000
+ col1 row207 2.000000
+ col1 row208 2.000000
+ col1 row209 2.000000
+ col1 row210 2.000000
+ col1 row211 2.000000
+ col1 row212 2.000000
+ col1 row213 2.000000
+ col1 row214 2.000000
+ col1 row215 2.000000
+ col1 row216 2.000000
+ col1 row217 2.000000
+ col1 row218 2.000000
+ col1 row219 2.000000
+ col1 row220 2.000000
+ col1 row221 2.000000
+ col1 row222 2.000000
+ col1 row223 2.000000
+ col1 row224 2.000000
+ col1 row225 2.000000
+ col1 row226 2.000000
+ col1 row227 2.000000
+ col1 row228 2.000000
+ col1 row229 2.000000
+ col1 row230 2.000000
+ col1 row231 2.000000
+ col1 row232 2.000000
+ col1 row233 2.000000
+ col1 row234 2.000000
+ col1 row235 2.000000
+ col1 row236 2.000000
+ col1 row237 2.000000
+ col1 row238 2.000000
+ col1 row239 2.000000
+ col1 row240 2.000000
+ col1 row241 2.000000
+ col1 row242 2.000000
+ col1 row243 2.000000
+ col1 row244 2.000000
+ col1 row245 2.000000
+ col1 row246 2.000000
+ col1 row247 2.000000
+ col1 row248 2.000000
+ col1 row249 2.000000
+ col1 row250 2.000000
+ col1 row251 3.000000
+ col1 row252 3.000000
+ col1 row253 3.000000
+ col1 row254 3.000000
+ col1 row255 3.000000
+ col1 row256 3.000000
+ col1 row257 3.000000
+ col1 row258 3.000000
+ col1 row259 3.000000
+ col1 row260 3.000000
+ col1 row261 3.000000
+ col1 row262 3.000000
+ col1 row263 3.000000
+ col1 row264 3.000000
+ col1 row265 3.000000
+ col1 row266 3.000000
+ col1 row267 3.000000
+ col1 row268 3.000000
+ col1 row269 3.000000
+ col1 row270 3.000000
+ col1 row271 3.000000
+ col1 row272 3.000000
+ col1 row273 3.000000
+ col1 row274 3.000000
+ col1 row275 3.000000
+ col1 row276 3.000000
+ col1 row277 3.000000
+ col1 row278 3.000000
+ col1 row279 3.000000
+ col1 row280 3.000000
+ col1 row281 3.000000
+ col1 row282 3.000000
+ col1 row283 3.000000
+ col1 row284 3.000000
+ col1 row285 3.000000
+ col1 row286 3.000000
+ col1 row287 3.000000
+ col1 row288 3.000000
+ col1 row289 3.000000
+ col1 row290 3.000000
+ col1 row291 3.000000
+ col1 row292 3.000000
+ col1 row293 3.000000
+ col1 row294 3.000000
+ col1 row295 3.000000
+ col1 row296 3.000000
+ col1 row297 3.000000
+ col1 row298 3.000000
+ col1 row299 3.000000
+ col1 row300 3.000000
+ col1 row301 3.000000
+ col1 row302 3.000000
+ col1 row303 3.000000
+ col1 row304 3.000000
+ col1 row305 3.000000
+ col1 row306 3.000000
+ col1 row307 3.000000
+ col1 row308 3.000000
+ col1 row309 3.000000
+ col1 row310 3.000000
+ col1 row311 3.000000
+ col1 row312 3.000000
+ col1 row313 3.000000
+ col1 row314 3.000000
+ col1 row315 3.000000
+ col1 row316 3.000000
+ col1 row317 3.000000
+ col1 row318 3.000000
+ col1 row319 3.000000
+ col1 row320 3.000000
+ col1 row321 3.000000
+ col1 row322 3.000000
+ col1 row323 3.000000
+ col1 row324 3.000000
+ col1 row325 3.000000
+ col1 row326 3.000000
+ col1 row327 3.000000
+ col1 row328 3.000000
+ col1 row329 3.000000
+ col1 row330 3.000000
+ col1 row331 3.000000
+ col1 row332 3.000000
+ col1 row333 3.000000
+ col1 row334 3.000000
+ col1 row335 3.000000
+ col1 row336 3.000000
+ col1 row337 3.000000
+ col1 row338 3.000000
+ col1 row339 3.000000
+ col1 row340 3.000000
+ col1 row341 3.000000
+ col1 row342 3.000000
+ col1 row343 3.000000
+ col1 row344 3.000000
+ col1 row345 3.000000
+ col1 row346 3.000000
+ col1 row347 3.000000
+ col1 row348 3.000000
+ col1 row349 3.000000
+ col1 row350 3.000000
+ col1 row351 3.000000
+ col1 row352 3.000000
+ col1 row353 3.000000
+ col1 row354 3.000000
+ col1 row355 3.000000
+ col1 row356 3.000000
+ col1 row357 3.000000
+ col1 row358 3.000000
+ col1 row359 3.000000
+ col1 row360 3.000000
+ col1 row361 3.000000
+ col1 row362 3.000000
+ col1 row363 3.000000
+ col1 row364 3.000000
+ col1 row365 3.000000
+ col1 row366 3.000000
+ col1 row367 3.000000
+ col1 row368 3.000000
+ col1 row369 3.000000
+ col1 row370 3.000000
+ col1 row371 3.000000
+ col1 row372 3.000000
+ col1 row373 3.000000
+ col1 row374 3.000000
+ col1 row375 3.000000
+ col1 row376 4.000000
+ col1 row377 4.000000
+ col1 row378 4.000000
+ col1 row379 4.000000
+ col1 row380 4.000000
+ col1 row381 4.000000
+ col1 row382 4.000000
+ col1 row383 4.000000
+ col1 row384 4.000000
+ col1 row385 4.000000
+ col1 row386 4.000000
+ col1 row387 4.000000
+ col1 row388 4.000000
+ col1 row389 4.000000
+ col1 row390 4.000000
+ col1 row391 4.000000
+ col1 row392 4.000000
+ col1 row393 4.000000
+ col1 row394 4.000000
+ col1 row395 4.000000
+ col1 row396 4.000000
+ col1 row397 4.000000
+ col1 row398 4.000000
+ col1 row399 4.000000
+ col1 row400 4.000000
+ col1 row401 4.000000
+ col1 row402 4.000000
+ col1 row403 4.000000
+ col1 row404 4.000000
+ col1 row405 4.000000
+ col1 row406 4.000000
+ col1 row407 4.000000
+ col1 row408 4.000000
+ col1 row409 4.000000
+ col1 row410 4.000000
+ col1 row411 4.000000
+ col1 row412 4.000000
+ col1 row413 4.000000
+ col1 row414 4.000000
+ col1 row415 4.000000
+ col1 row416 4.000000
+ col1 row417 4.000000
+ col1 row418 4.000000
+ col1 row419 4.000000
+ col1 row420 4.000000
+ col1 row421 4.000000
+ col1 row422 4.000000
+ col1 row423 4.000000
+ col1 row424 4.000000
+ col1 row425 4.000000
+ col1 row426 4.000000
+ col1 row427 4.000000
+ col1 row428 4.000000
+ col1 row429 4.000000
+ col1 row430 4.000000
+ col1 row431 4.000000
+ col1 row432 4.000000
+ col1 row433 4.000000
+ col1 row434 4.000000
+ col1 row435 4.000000
+ col1 row436 4.000000
+ col1 row437 4.000000
+ col1 row438 4.000000
+ col1 row439 4.000000
+ col1 row440 4.000000
+ col1 row441 4.000000
+ col1 row442 4.000000
+ col1 row443 4.000000
+ col1 row444 4.000000
+ col1 row445 4.000000
+ col1 row446 4.000000
+ col1 row447 4.000000
+ col1 row448 4.000000
+ col1 row449 4.000000
+ col1 row450 4.000000
+ col1 row451 4.000000
+ col1 row452 4.000000
+ col1 row453 4.000000
+ col1 row454 4.000000
+ col1 row455 4.000000
+ col1 row456 4.000000
+ col1 row457 4.000000
+ col1 row458 4.000000
+ col1 row459 4.000000
+ col1 row460 4.000000
+ col1 row461 4.000000
+ col1 row462 4.000000
+ col1 row463 4.000000
+ col1 row464 4.000000
+ col1 row465 4.000000
+ col1 row466 4.000000
+ col1 row467 4.000000
+ col1 row468 4.000000
+ col1 row469 4.000000
+ col1 row470 4.000000
+ col1 row471 4.000000
+ col1 row472 4.000000
+ col1 row473 4.000000
+ col1 row474 4.000000
+ col1 row475 4.000000
+ col1 row476 4.000000
+ col1 row477 4.000000
+ col1 row478 4.000000
+ col1 row479 4.000000
+ col1 row480 4.000000
+ col1 row481 4.000000
+ col1 row482 4.000000
+ col1 row483 4.000000
+ col1 row484 4.000000
+ col1 row485 4.000000
+ col1 row486 4.000000
+ col1 row487 4.000000
+ col1 row488 4.000000
+ col1 row489 4.000000
+ col1 row490 4.000000
+ col1 row491 4.000000
+ col1 row492 4.000000
+ col1 row493 4.000000
+ col1 row494 4.000000
+ col1 row495 4.000000
+ col1 row496 4.000000
+ col1 row497 4.000000
+ col1 row498 4.000000
+ col1 row499 4.000000
+ col1 row500 4.000000
+ col1 row501 5.000000
+ col1 row502 5.000000
+ col1 row503 5.000000
+ col1 row504 5.000000
+ col1 row505 5.000000
+ col1 row506 5.000000
+ col1 row507 5.000000
+ col1 row508 5.000000
+ col1 row509 5.000000
+ col1 row510 5.000000
+ col1 row511 5.000000
+ col1 row512 5.000000
+ col1 row513 5.000000
+ col1 row514 5.000000
+ col1 row515 5.000000
+ col1 row516 5.000000
+ col1 row517 5.000000
+ col1 row518 5.000000
+ col1 row519 5.000000
+ col1 row520 5.000000
+ col1 row521 5.000000
+ col1 row522 5.000000
+ col1 row523 5.000000
+ col1 row524 5.000000
+ col1 row525 5.000000
+ col1 row526 5.000000
+ col1 row527 5.000000
+ col1 row528 5.000000
+ col1 row529 5.000000
+ col1 row530 5.000000
+ col1 row531 5.000000
+ col1 row532 5.000000
+ col1 row533 5.000000
+ col1 row534 5.000000
+ col1 row535 5.000000
+ col1 row536 5.000000
+ col1 row537 5.000000
+ col1 row538 5.000000
+ col1 row539 5.000000
+ col1 row540 5.000000
+ col1 row541 5.000000
+ col1 row542 5.000000
+ col1 row543 5.000000
+ col1 row544 5.000000
+ col1 row545 5.000000
+ col1 row546 5.000000
+ col1 row547 5.000000
+ col1 row548 5.000000
+ col1 row549 5.000000
+ col1 row550 5.000000
+ col1 row551 5.000000
+ col1 row552 5.000000
+ col1 row553 5.000000
+ col1 row554 5.000000
+ col1 row555 5.000000
+ col1 row556 5.000000
+ col1 row557 5.000000
+ col1 row558 5.000000
+ col1 row559 5.000000
+ col1 row560 5.000000
+ col1 row561 5.000000
+ col1 row562 5.000000
+ col1 row563 5.000000
+ col1 row564 5.000000
+ col1 row565 5.000000
+ col1 row566 5.000000
+ col1 row567 5.000000
+ col1 row568 5.000000
+ col1 row569 5.000000
+ col1 row570 5.000000
+ col1 row571 5.000000
+ col1 row572 5.000000
+ col1 row573 5.000000
+ col1 row574 5.000000
+ col1 row575 5.000000
+ col1 row576 5.000000
+ col1 row577 5.000000
+ col1 row578 5.000000
+ col1 row579 5.000000
+ col1 row580 5.000000
+ col1 row581 5.000000
+ col1 row582 5.000000
+ col1 row583 5.000000
+ col1 row584 5.000000
+ col1 row585 5.000000
+ col1 row586 5.000000
+ col1 row587 5.000000
+ col1 row588 5.000000
+ col1 row589 5.000000
+ col1 row590 5.000000
+ col1 row591 5.000000
+ col1 row592 5.000000
+ col1 row593 5.000000
+ col1 row594 5.000000
+ col1 row595 5.000000
+ col1 row596 5.000000
+ col1 row597 5.000000
+ col1 row598 5.000000
+ col1 row599 5.000000
+ col1 row600 5.000000
+ col1 row601 5.000000
+ col1 row602 5.000000
+ col1 row603 5.000000
+ col1 row604 5.000000
+ col1 row605 5.000000
+ col1 row606 5.000000
+ col1 row607 5.000000
+ col1 row608 5.000000
+ col1 row609 5.000000
+ col1 row610 5.000000
+ col1 row611 5.000000
+ col1 row612 5.000000
+ col1 row613 5.000000
+ col1 row614 5.000000
+ col1 row615 5.000000
+ col1 row616 5.000000
+ col1 row617 5.000000
+ col1 row618 5.000000
+ col1 row619 5.000000
+ col1 row620 5.000000
+ col1 row621 5.000000
+ col1 row622 5.000000
+ col1 row623 5.000000
+ col1 row624 5.000000
+ col1 row625 5.000000
+ col2 row1 1.000000
+ col2 row2 1.000000
+ col2 row3 1.000000
+ col2 row4 1.000000
+ col2 row5 1.000000
+ col2 row6 1.000000
+ col2 row7 1.000000
+ col2 row8 1.000000
+ col2 row9 1.000000
+ col2 row10 1.000000
+ col2 row11 1.000000
+ col2 row12 1.000000
+ col2 row13 1.000000
+ col2 row14 1.000000
+ col2 row15 1.000000
+ col2 row16 1.000000
+ col2 row17 1.000000
+ col2 row18 1.000000
+ col2 row19 1.000000
+ col2 row20 1.000000
+ col2 row21 1.000000
+ col2 row22 1.000000
+ col2 row23 1.000000
+ col2 row24 1.000000
+ col2 row25 1.000000
+ col2 row26 2.000000
+ col2 row27 2.000000
+ col2 row28 2.000000
+ col2 row29 2.000000
+ col2 row30 2.000000
+ col2 row31 2.000000
+ col2 row32 2.000000
+ col2 row33 2.000000
+ col2 row34 2.000000
+ col2 row35 2.000000
+ col2 row36 2.000000
+ col2 row37 2.000000
+ col2 row38 2.000000
+ col2 row39 2.000000
+ col2 row40 2.000000
+ col2 row41 2.000000
+ col2 row42 2.000000
+ col2 row43 2.000000
+ col2 row44 2.000000
+ col2 row45 2.000000
+ col2 row46 2.000000
+ col2 row47 2.000000
+ col2 row48 2.000000
+ col2 row49 2.000000
+ col2 row50 2.000000
+ col2 row51 3.000000
+ col2 row52 3.000000
+ col2 row53 3.000000
+ col2 row54 3.000000
+ col2 row55 3.000000
+ col2 row56 3.000000
+ col2 row57 3.000000
+ col2 row58 3.000000
+ col2 row59 3.000000
+ col2 row60 3.000000
+ col2 row61 3.000000
+ col2 row62 3.000000
+ col2 row63 3.000000
+ col2 row64 3.000000
+ col2 row65 3.000000
+ col2 row66 3.000000
+ col2 row67 3.000000
+ col2 row68 3.000000
+ col2 row69 3.000000
+ col2 row70 3.000000
+ col2 row71 3.000000
+ col2 row72 3.000000
+ col2 row73 3.000000
+ col2 row74 3.000000
+ col2 row75 3.000000
+ col2 row76 4.000000
+ col2 row77 4.000000
+ col2 row78 4.000000
+ col2 row79 4.000000
+ col2 row80 4.000000
+ col2 row81 4.000000
+ col2 row82 4.000000
+ col2 row83 4.000000
+ col2 row84 4.000000
+ col2 row85 4.000000
+ col2 row86 4.000000
+ col2 row87 4.000000
+ col2 row88 4.000000
+ col2 row89 4.000000
+ col2 row90 4.000000
+ col2 row91 4.000000
+ col2 row92 4.000000
+ col2 row93 4.000000
+ col2 row94 4.000000
+ col2 row95 4.000000
+ col2 row96 4.000000
+ col2 row97 4.000000
+ col2 row98 4.000000
+ col2 row99 4.000000
+ col2 row100 4.000000
+ col2 row101 5.000000
+ col2 row102 5.000000
+ col2 row103 5.000000
+ col2 row104 5.000000
+ col2 row105 5.000000
+ col2 row106 5.000000
+ col2 row107 5.000000
+ col2 row108 5.000000
+ col2 row109 5.000000
+ col2 row110 5.000000
+ col2 row111 5.000000
+ col2 row112 5.000000
+ col2 row113 5.000000
+ col2 row114 5.000000
+ col2 row115 5.000000
+ col2 row116 5.000000
+ col2 row117 5.000000
+ col2 row118 5.000000
+ col2 row119 5.000000
+ col2 row120 5.000000
+ col2 row121 5.000000
+ col2 row122 5.000000
+ col2 row123 5.000000
+ col2 row124 5.000000
+ col2 row125 5.000000
+ col2 row126 1.000000
+ col2 row127 1.000000
+ col2 row128 1.000000
+ col2 row129 1.000000
+ col2 row130 1.000000
+ col2 row131 1.000000
+ col2 row132 1.000000
+ col2 row133 1.000000
+ col2 row134 1.000000
+ col2 row135 1.000000
+ col2 row136 1.000000
+ col2 row137 1.000000
+ col2 row138 1.000000
+ col2 row139 1.000000
+ col2 row140 1.000000
+ col2 row141 1.000000
+ col2 row142 1.000000
+ col2 row143 1.000000
+ col2 row144 1.000000
+ col2 row145 1.000000
+ col2 row146 1.000000
+ col2 row147 1.000000
+ col2 row148 1.000000
+ col2 row149 1.000000
+ col2 row150 1.000000
+ col2 row151 2.000000
+ col2 row152 2.000000
+ col2 row153 2.000000
+ col2 row154 2.000000
+ col2 row155 2.000000
+ col2 row156 2.000000
+ col2 row157 2.000000
+ col2 row158 2.000000
+ col2 row159 2.000000
+ col2 row160 2.000000
+ col2 row161 2.000000
+ col2 row162 2.000000
+ col2 row163 2.000000
+ col2 row164 2.000000
+ col2 row165 2.000000
+ col2 row166 2.000000
+ col2 row167 2.000000
+ col2 row168 2.000000
+ col2 row169 2.000000
+ col2 row170 2.000000
+ col2 row171 2.000000
+ col2 row172 2.000000
+ col2 row173 2.000000
+ col2 row174 2.000000
+ col2 row175 2.000000
+ col2 row176 3.000000
+ col2 row177 3.000000
+ col2 row178 3.000000
+ col2 row179 3.000000
+ col2 row180 3.000000
+ col2 row181 3.000000
+ col2 row182 3.000000
+ col2 row183 3.000000
+ col2 row184 3.000000
+ col2 row185 3.000000
+ col2 row186 3.000000
+ col2 row187 3.000000
+ col2 row188 3.000000
+ col2 row189 3.000000
+ col2 row190 3.000000
+ col2 row191 3.000000
+ col2 row192 3.000000
+ col2 row193 3.000000
+ col2 row194 3.000000
+ col2 row195 3.000000
+ col2 row196 3.000000
+ col2 row197 3.000000
+ col2 row198 3.000000
+ col2 row199 3.000000
+ col2 row200 3.000000
+ col2 row201 4.000000
+ col2 row202 4.000000
+ col2 row203 4.000000
+ col2 row204 4.000000
+ col2 row205 4.000000
+ col2 row206 4.000000
+ col2 row207 4.000000
+ col2 row208 4.000000
+ col2 row209 4.000000
+ col2 row210 4.000000
+ col2 row211 4.000000
+ col2 row212 4.000000
+ col2 row213 4.000000
+ col2 row214 4.000000
+ col2 row215 4.000000
+ col2 row216 4.000000
+ col2 row217 4.000000
+ col2 row218 4.000000
+ col2 row219 4.000000
+ col2 row220 4.000000
+ col2 row221 4.000000
+ col2 row222 4.000000
+ col2 row223 4.000000
+ col2 row224 4.000000
+ col2 row225 4.000000
+ col2 row226 5.000000
+ col2 row227 5.000000
+ col2 row228 5.000000
+ col2 row229 5.000000
+ col2 row230 5.000000
+ col2 row231 5.000000
+ col2 row232 5.000000
+ col2 row233 5.000000
+ col2 row234 5.000000
+ col2 row235 5.000000
+ col2 row236 5.000000
+ col2 row237 5.000000
+ col2 row238 5.000000
+ col2 row239 5.000000
+ col2 row240 5.000000
+ col2 row241 5.000000
+ col2 row242 5.000000
+ col2 row243 5.000000
+ col2 row244 5.000000
+ col2 row245 5.000000
+ col2 row246 5.000000
+ col2 row247 5.000000
+ col2 row248 5.000000
+ col2 row249 5.000000
+ col2 row250 5.000000
+ col2 row251 1.000000
+ col2 row252 1.000000
+ col2 row253 1.000000
+ col2 row254 1.000000
+ col2 row255 1.000000
+ col2 row256 1.000000
+ col2 row257 1.000000
+ col2 row258 1.000000
+ col2 row259 1.000000
+ col2 row260 1.000000
+ col2 row261 1.000000
+ col2 row262 1.000000
+ col2 row263 1.000000
+ col2 row264 1.000000
+ col2 row265 1.000000
+ col2 row266 1.000000
+ col2 row267 1.000000
+ col2 row268 1.000000
+ col2 row269 1.000000
+ col2 row270 1.000000
+ col2 row271 1.000000
+ col2 row272 1.000000
+ col2 row273 1.000000
+ col2 row274 1.000000
+ col2 row275 1.000000
+ col2 row276 2.000000
+ col2 row277 2.000000
+ col2 row278 2.000000
+ col2 row279 2.000000
+ col2 row280 2.000000
+ col2 row281 2.000000
+ col2 row282 2.000000
+ col2 row283 2.000000
+ col2 row284 2.000000
+ col2 row285 2.000000
+ col2 row286 2.000000
+ col2 row287 2.000000
+ col2 row288 2.000000
+ col2 row289 2.000000
+ col2 row290 2.000000
+ col2 row291 2.000000
+ col2 row292 2.000000
+ col2 row293 2.000000
+ col2 row294 2.000000
+ col2 row295 2.000000
+ col2 row296 2.000000
+ col2 row297 2.000000
+ col2 row298 2.000000
+ col2 row299 2.000000
+ col2 row300 2.000000
+ col2 row301 3.000000
+ col2 row302 3.000000
+ col2 row303 3.000000
+ col2 row304 3.000000
+ col2 row305 3.000000
+ col2 row306 3.000000
+ col2 row307 3.000000
+ col2 row308 3.000000
+ col2 row309 3.000000
+ col2 row310 3.000000
+ col2 row311 3.000000
+ col2 row312 3.000000
+ col2 row313 3.000000
+ col2 row314 3.000000
+ col2 row315 3.000000
+ col2 row316 3.000000
+ col2 row317 3.000000
+ col2 row318 3.000000
+ col2 row319 3.000000
+ col2 row320 3.000000
+ col2 row321 3.000000
+ col2 row322 3.000000
+ col2 row323 3.000000
+ col2 row324 3.000000
+ col2 row325 3.000000
+ col2 row326 4.000000
+ col2 row327 4.000000
+ col2 row328 4.000000
+ col2 row329 4.000000
+ col2 row330 4.000000
+ col2 row331 4.000000
+ col2 row332 4.000000
+ col2 row333 4.000000
+ col2 row334 4.000000
+ col2 row335 4.000000
+ col2 row336 4.000000
+ col2 row337 4.000000
+ col2 row338 4.000000
+ col2 row339 4.000000
+ col2 row340 4.000000
+ col2 row341 4.000000
+ col2 row342 4.000000
+ col2 row343 4.000000
+ col2 row344 4.000000
+ col2 row345 4.000000
+ col2 row346 4.000000
+ col2 row347 4.000000
+ col2 row348 4.000000
+ col2 row349 4.000000
+ col2 row350 4.000000
+ col2 row351 5.000000
+ col2 row352 5.000000
+ col2 row353 5.000000
+ col2 row354 5.000000
+ col2 row355 5.000000
+ col2 row356 5.000000
+ col2 row357 5.000000
+ col2 row358 5.000000
+ col2 row359 5.000000
+ col2 row360 5.000000
+ col2 row361 5.000000
+ col2 row362 5.000000
+ col2 row363 5.000000
+ col2 row364 5.000000
+ col2 row365 5.000000
+ col2 row366 5.000000
+ col2 row367 5.000000
+ col2 row368 5.000000
+ col2 row369 5.000000
+ col2 row370 5.000000
+ col2 row371 5.000000
+ col2 row372 5.000000
+ col2 row373 5.000000
+ col2 row374 5.000000
+ col2 row375 5.000000
+ col2 row376 1.000000
+ col2 row377 1.000000
+ col2 row378 1.000000
+ col2 row379 1.000000
+ col2 row380 1.000000
+ col2 row381 1.000000
+ col2 row382 1.000000
+ col2 row383 1.000000
+ col2 row384 1.000000
+ col2 row385 1.000000
+ col2 row386 1.000000
+ col2 row387 1.000000
+ col2 row388 1.000000
+ col2 row389 1.000000
+ col2 row390 1.000000
+ col2 row391 1.000000
+ col2 row392 1.000000
+ col2 row393 1.000000
+ col2 row394 1.000000
+ col2 row395 1.000000
+ col2 row396 1.000000
+ col2 row397 1.000000
+ col2 row398 1.000000
+ col2 row399 1.000000
+ col2 row400 1.000000
+ col2 row401 2.000000
+ col2 row402 2.000000
+ col2 row403 2.000000
+ col2 row404 2.000000
+ col2 row405 2.000000
+ col2 row406 2.000000
+ col2 row407 2.000000
+ col2 row408 2.000000
+ col2 row409 2.000000
+ col2 row410 2.000000
+ col2 row411 2.000000
+ col2 row412 2.000000
+ col2 row413 2.000000
+ col2 row414 2.000000
+ col2 row415 2.000000
+ col2 row416 2.000000
+ col2 row417 2.000000
+ col2 row418 2.000000
+ col2 row419 2.000000
+ col2 row420 2.000000
+ col2 row421 2.000000
+ col2 row422 2.000000
+ col2 row423 2.000000
+ col2 row424 2.000000
+ col2 row425 2.000000
+ col2 row426 3.000000
+ col2 row427 3.000000
+ col2 row428 3.000000
+ col2 row429 3.000000
+ col2 row430 3.000000
+ col2 row431 3.000000
+ col2 row432 3.000000
+ col2 row433 3.000000
+ col2 row434 3.000000
+ col2 row435 3.000000
+ col2 row436 3.000000
+ col2 row437 3.000000
+ col2 row438 3.000000
+ col2 row439 3.000000
+ col2 row440 3.000000
+ col2 row441 3.000000
+ col2 row442 3.000000
+ col2 row443 3.000000
+ col2 row444 3.000000
+ col2 row445 3.000000
+ col2 row446 3.000000
+ col2 row447 3.000000
+ col2 row448 3.000000
+ col2 row449 3.000000
+ col2 row450 3.000000
+ col2 row451 4.000000
+ col2 row452 4.000000
+ col2 row453 4.000000
+ col2 row454 4.000000
+ col2 row455 4.000000
+ col2 row456 4.000000
+ col2 row457 4.000000
+ col2 row458 4.000000
+ col2 row459 4.000000
+ col2 row460 4.000000
+ col2 row461 4.000000
+ col2 row462 4.000000
+ col2 row463 4.000000
+ col2 row464 4.000000
+ col2 row465 4.000000
+ col2 row466 4.000000
+ col2 row467 4.000000
+ col2 row468 4.000000
+ col2 row469 4.000000
+ col2 row470 4.000000
+ col2 row471 4.000000
+ col2 row472 4.000000
+ col2 row473 4.000000
+ col2 row474 4.000000
+ col2 row475 4.000000
+ col2 row476 5.000000
+ col2 row477 5.000000
+ col2 row478 5.000000
+ col2 row479 5.000000
+ col2 row480 5.000000
+ col2 row481 5.000000
+ col2 row482 5.000000
+ col2 row483 5.000000
+ col2 row484 5.000000
+ col2 row485 5.000000
+ col2 row486 5.000000
+ col2 row487 5.000000
+ col2 row488 5.000000
+ col2 row489 5.000000
+ col2 row490 5.000000
+ col2 row491 5.000000
+ col2 row492 5.000000
+ col2 row493 5.000000
+ col2 row494 5.000000
+ col2 row495 5.000000
+ col2 row496 5.000000
+ col2 row497 5.000000
+ col2 row498 5.000000
+ col2 row499 5.000000
+ col2 row500 5.000000
+ col2 row501 1.000000
+ col2 row502 1.000000
+ col2 row503 1.000000
+ col2 row504 1.000000
+ col2 row505 1.000000
+ col2 row506 1.000000
+ col2 row507 1.000000
+ col2 row508 1.000000
+ col2 row509 1.000000
+ col2 row510 1.000000
+ col2 row511 1.000000
+ col2 row512 1.000000
+ col2 row513 1.000000
+ col2 row514 1.000000
+ col2 row515 1.000000
+ col2 row516 1.000000
+ col2 row517 1.000000
+ col2 row518 1.000000
+ col2 row519 1.000000
+ col2 row520 1.000000
+ col2 row521 1.000000
+ col2 row522 1.000000
+ col2 row523 1.000000
+ col2 row524 1.000000
+ col2 row525 1.000000
+ col2 row526 2.000000
+ col2 row527 2.000000
+ col2 row528 2.000000
+ col2 row529 2.000000
+ col2 row530 2.000000
+ col2 row531 2.000000
+ col2 row532 2.000000
+ col2 row533 2.000000
+ col2 row534 2.000000
+ col2 row535 2.000000
+ col2 row536 2.000000
+ col2 row537 2.000000
+ col2 row538 2.000000
+ col2 row539 2.000000
+ col2 row540 2.000000
+ col2 row541 2.000000
+ col2 row542 2.000000
+ col2 row543 2.000000
+ col2 row544 2.000000
+ col2 row545 2.000000
+ col2 row546 2.000000
+ col2 row547 2.000000
+ col2 row548 2.000000
+ col2 row549 2.000000
+ col2 row550 2.000000
+ col2 row551 3.000000
+ col2 row552 3.000000
+ col2 row553 3.000000
+ col2 row554 3.000000
+ col2 row555 3.000000
+ col2 row556 3.000000
+ col2 row557 3.000000
+ col2 row558 3.000000
+ col2 row559 3.000000
+ col2 row560 3.000000
+ col2 row561 3.000000
+ col2 row562 3.000000
+ col2 row563 3.000000
+ col2 row564 3.000000
+ col2 row565 3.000000
+ col2 row566 3.000000
+ col2 row567 3.000000
+ col2 row568 3.000000
+ col2 row569 3.000000
+ col2 row570 3.000000
+ col2 row571 3.000000
+ col2 row572 3.000000
+ col2 row573 3.000000
+ col2 row574 3.000000
+ col2 row575 3.000000
+ col2 row576 4.000000
+ col2 row577 4.000000
+ col2 row578 4.000000
+ col2 row579 4.000000
+ col2 row580 4.000000
+ col2 row581 4.000000
+ col2 row582 4.000000
+ col2 row583 4.000000
+ col2 row584 4.000000
+ col2 row585 4.000000
+ col2 row586 4.000000
+ col2 row587 4.000000
+ col2 row588 4.000000
+ col2 row589 4.000000
+ col2 row590 4.000000
+ col2 row591 4.000000
+ col2 row592 4.000000
+ col2 row593 4.000000
+ col2 row594 4.000000
+ col2 row595 4.000000
+ col2 row596 4.000000
+ col2 row597 4.000000
+ col2 row598 4.000000
+ col2 row599 4.000000
+ col2 row600 4.000000
+ col2 row601 5.000000
+ col2 row602 5.000000
+ col2 row603 5.000000
+ col2 row604 5.000000
+ col2 row605 5.000000
+ col2 row606 5.000000
+ col2 row607 5.000000
+ col2 row608 5.000000
+ col2 row609 5.000000
+ col2 row610 5.000000
+ col2 row611 5.000000
+ col2 row612 5.000000
+ col2 row613 5.000000
+ col2 row614 5.000000
+ col2 row615 5.000000
+ col2 row616 5.000000
+ col2 row617 5.000000
+ col2 row618 5.000000
+ col2 row619 5.000000
+ col2 row620 5.000000
+ col2 row621 5.000000
+ col2 row622 5.000000
+ col2 row623 5.000000
+ col2 row624 5.000000
+ col2 row625 5.000000
+ col3 row1 1.000000
+ col3 row2 1.000000
+ col3 row3 1.000000
+ col3 row4 1.000000
+ col3 row5 1.000000
+ col3 row6 2.000000
+ col3 row7 2.000000
+ col3 row8 2.000000
+ col3 row9 2.000000
+ col3 row10 2.000000
+ col3 row11 3.000000
+ col3 row12 3.000000
+ col3 row13 3.000000
+ col3 row14 3.000000
+ col3 row15 3.000000
+ col3 row16 4.000000
+ col3 row17 4.000000
+ col3 row18 4.000000
+ col3 row19 4.000000
+ col3 row20 4.000000
+ col3 row21 5.000000
+ col3 row22 5.000000
+ col3 row23 5.000000
+ col3 row24 5.000000
+ col3 row25 5.000000
+ col3 row26 1.000000
+ col3 row27 1.000000
+ col3 row28 1.000000
+ col3 row29 1.000000
+ col3 row30 1.000000
+ col3 row31 2.000000
+ col3 row32 2.000000
+ col3 row33 2.000000
+ col3 row34 2.000000
+ col3 row35 2.000000
+ col3 row36 3.000000
+ col3 row37 3.000000
+ col3 row38 3.000000
+ col3 row39 3.000000
+ col3 row40 3.000000
+ col3 row41 4.000000
+ col3 row42 4.000000
+ col3 row43 4.000000
+ col3 row44 4.000000
+ col3 row45 4.000000
+ col3 row46 5.000000
+ col3 row47 5.000000
+ col3 row48 5.000000
+ col3 row49 5.000000
+ col3 row50 5.000000
+ col3 row51 1.000000
+ col3 row52 1.000000
+ col3 row53 1.000000
+ col3 row54 1.000000
+ col3 row55 1.000000
+ col3 row56 2.000000
+ col3 row57 2.000000
+ col3 row58 2.000000
+ col3 row59 2.000000
+ col3 row60 2.000000
+ col3 row61 3.000000
+ col3 row62 3.000000
+ col3 row63 3.000000
+ col3 row64 3.000000
+ col3 row65 3.000000
+ col3 row66 4.000000
+ col3 row67 4.000000
+ col3 row68 4.000000
+ col3 row69 4.000000
+ col3 row70 4.000000
+ col3 row71 5.000000
+ col3 row72 5.000000
+ col3 row73 5.000000
+ col3 row74 5.000000
+ col3 row75 5.000000
+ col3 row76 1.000000
+ col3 row77 1.000000
+ col3 row78 1.000000
+ col3 row79 1.000000
+ col3 row80 1.000000
+ col3 row81 2.000000
+ col3 row82 2.000000
+ col3 row83 2.000000
+ col3 row84 2.000000
+ col3 row85 2.000000
+ col3 row86 3.000000
+ col3 row87 3.000000
+ col3 row88 3.000000
+ col3 row89 3.000000
+ col3 row90 3.000000
+ col3 row91 4.000000
+ col3 row92 4.000000
+ col3 row93 4.000000
+ col3 row94 4.000000
+ col3 row95 4.000000
+ col3 row96 5.000000
+ col3 row97 5.000000
+ col3 row98 5.000000
+ col3 row99 5.000000
+ col3 row100 5.000000
+ col3 row101 1.000000
+ col3 row102 1.000000
+ col3 row103 1.000000
+ col3 row104 1.000000
+ col3 row105 1.000000
+ col3 row106 2.000000
+ col3 row107 2.000000
+ col3 row108 2.000000
+ col3 row109 2.000000
+ col3 row110 2.000000
+ col3 row111 3.000000
+ col3 row112 3.000000
+ col3 row113 3.000000
+ col3 row114 3.000000
+ col3 row115 3.000000
+ col3 row116 4.000000
+ col3 row117 4.000000
+ col3 row118 4.000000
+ col3 row119 4.000000
+ col3 row120 4.000000
+ col3 row121 5.000000
+ col3 row122 5.000000
+ col3 row123 5.000000
+ col3 row124 5.000000
+ col3 row125 5.000000
+ col3 row126 1.000000
+ col3 row127 1.000000
+ col3 row128 1.000000
+ col3 row129 1.000000
+ col3 row130 1.000000
+ col3 row131 2.000000
+ col3 row132 2.000000
+ col3 row133 2.000000
+ col3 row134 2.000000
+ col3 row135 2.000000
+ col3 row136 3.000000
+ col3 row137 3.000000
+ col3 row138 3.000000
+ col3 row139 3.000000
+ col3 row140 3.000000
+ col3 row141 4.000000
+ col3 row142 4.000000
+ col3 row143 4.000000
+ col3 row144 4.000000
+ col3 row145 4.000000
+ col3 row146 5.000000
+ col3 row147 5.000000
+ col3 row148 5.000000
+ col3 row149 5.000000
+ col3 row150 5.000000
+ col3 row151 1.000000
+ col3 row152 1.000000
+ col3 row153 1.000000
+ col3 row154 1.000000
+ col3 row155 1.000000
+ col3 row156 2.000000
+ col3 row157 2.000000
+ col3 row158 2.000000
+ col3 row159 2.000000
+ col3 row160 2.000000
+ col3 row161 3.000000
+ col3 row162 3.000000
+ col3 row163 3.000000
+ col3 row164 3.000000
+ col3 row165 3.000000
+ col3 row166 4.000000
+ col3 row167 4.000000
+ col3 row168 4.000000
+ col3 row169 4.000000
+ col3 row170 4.000000
+ col3 row171 5.000000
+ col3 row172 5.000000
+ col3 row173 5.000000
+ col3 row174 5.000000
+ col3 row175 5.000000
+ col3 row176 1.000000
+ col3 row177 1.000000
+ col3 row178 1.000000
+ col3 row179 1.000000
+ col3 row180 1.000000
+ col3 row181 2.000000
+ col3 row182 2.000000
+ col3 row183 2.000000
+ col3 row184 2.000000
+ col3 row185 2.000000
+ col3 row186 3.000000
+ col3 row187 3.000000
+ col3 row188 3.000000
+ col3 row189 3.000000
+ col3 row190 3.000000
+ col3 row191 4.000000
+ col3 row192 4.000000
+ col3 row193 4.000000
+ col3 row194 4.000000
+ col3 row195 4.000000
+ col3 row196 5.000000
+ col3 row197 5.000000
+ col3 row198 5.000000
+ col3 row199 5.000000
+ col3 row200 5.000000
+ col3 row201 1.000000
+ col3 row202 1.000000
+ col3 row203 1.000000
+ col3 row204 1.000000
+ col3 row205 1.000000
+ col3 row206 2.000000
+ col3 row207 2.000000
+ col3 row208 2.000000
+ col3 row209 2.000000
+ col3 row210 2.000000
+ col3 row211 3.000000
+ col3 row212 3.000000
+ col3 row213 3.000000
+ col3 row214 3.000000
+ col3 row215 3.000000
+ col3 row216 4.000000
+ col3 row217 4.000000
+ col3 row218 4.000000
+ col3 row219 4.000000
+ col3 row220 4.000000
+ col3 row221 5.000000
+ col3 row222 5.000000
+ col3 row223 5.000000
+ col3 row224 5.000000
+ col3 row225 5.000000
+ col3 row226 1.000000
+ col3 row227 1.000000
+ col3 row228 1.000000
+ col3 row229 1.000000
+ col3 row230 1.000000
+ col3 row231 2.000000
+ col3 row232 2.000000
+ col3 row233 2.000000
+ col3 row234 2.000000
+ col3 row235 2.000000
+ col3 row236 3.000000
+ col3 row237 3.000000
+ col3 row238 3.000000
+ col3 row239 3.000000
+ col3 row240 3.000000
+ col3 row241 4.000000
+ col3 row242 4.000000
+ col3 row243 4.000000
+ col3 row244 4.000000
+ col3 row245 4.000000
+ col3 row246 5.000000
+ col3 row247 5.000000
+ col3 row248 5.000000
+ col3 row249 5.000000
+ col3 row250 5.000000
+ col3 row251 1.000000
+ col3 row252 1.000000
+ col3 row253 1.000000
+ col3 row254 1.000000
+ col3 row255 1.000000
+ col3 row256 2.000000
+ col3 row257 2.000000
+ col3 row258 2.000000
+ col3 row259 2.000000
+ col3 row260 2.000000
+ col3 row261 3.000000
+ col3 row262 3.000000
+ col3 row263 3.000000
+ col3 row264 3.000000
+ col3 row265 3.000000
+ col3 row266 4.000000
+ col3 row267 4.000000
+ col3 row268 4.000000
+ col3 row269 4.000000
+ col3 row270 4.000000
+ col3 row271 5.000000
+ col3 row272 5.000000
+ col3 row273 5.000000
+ col3 row274 5.000000
+ col3 row275 5.000000
+ col3 row276 1.000000
+ col3 row277 1.000000
+ col3 row278 1.000000
+ col3 row279 1.000000
+ col3 row280 1.000000
+ col3 row281 2.000000
+ col3 row282 2.000000
+ col3 row283 2.000000
+ col3 row284 2.000000
+ col3 row285 2.000000
+ col3 row286 3.000000
+ col3 row287 3.000000
+ col3 row288 3.000000
+ col3 row289 3.000000
+ col3 row290 3.000000
+ col3 row291 4.000000
+ col3 row292 4.000000
+ col3 row293 4.000000
+ col3 row294 4.000000
+ col3 row295 4.000000
+ col3 row296 5.000000
+ col3 row297 5.000000
+ col3 row298 5.000000
+ col3 row299 5.000000
+ col3 row300 5.000000
+ col3 row301 1.000000
+ col3 row302 1.000000
+ col3 row303 1.000000
+ col3 row304 1.000000
+ col3 row305 1.000000
+ col3 row306 2.000000
+ col3 row307 2.000000
+ col3 row308 2.000000
+ col3 row309 2.000000
+ col3 row310 2.000000
+ col3 row311 3.000000
+ col3 row312 3.000000
+ col3 row313 3.000000
+ col3 row314 3.000000
+ col3 row315 3.000000
+ col3 row316 4.000000
+ col3 row317 4.000000
+ col3 row318 4.000000
+ col3 row319 4.000000
+ col3 row320 4.000000
+ col3 row321 5.000000
+ col3 row322 5.000000
+ col3 row323 5.000000
+ col3 row324 5.000000
+ col3 row325 5.000000
+ col3 row326 1.000000
+ col3 row327 1.000000
+ col3 row328 1.000000
+ col3 row329 1.000000
+ col3 row330 1.000000
+ col3 row331 2.000000
+ col3 row332 2.000000
+ col3 row333 2.000000
+ col3 row334 2.000000
+ col3 row335 2.000000
+ col3 row336 3.000000
+ col3 row337 3.000000
+ col3 row338 3.000000
+ col3 row339 3.000000
+ col3 row340 3.000000
+ col3 row341 4.000000
+ col3 row342 4.000000
+ col3 row343 4.000000
+ col3 row344 4.000000
+ col3 row345 4.000000
+ col3 row346 5.000000
+ col3 row347 5.000000
+ col3 row348 5.000000
+ col3 row349 5.000000
+ col3 row350 5.000000
+ col3 row351 1.000000
+ col3 row352 1.000000
+ col3 row353 1.000000
+ col3 row354 1.000000
+ col3 row355 1.000000
+ col3 row356 2.000000
+ col3 row357 2.000000
+ col3 row358 2.000000
+ col3 row359 2.000000
+ col3 row360 2.000000
+ col3 row361 3.000000
+ col3 row362 3.000000
+ col3 row363 3.000000
+ col3 row364 3.000000
+ col3 row365 3.000000
+ col3 row366 4.000000
+ col3 row367 4.000000
+ col3 row368 4.000000
+ col3 row369 4.000000
+ col3 row370 4.000000
+ col3 row371 5.000000
+ col3 row372 5.000000
+ col3 row373 5.000000
+ col3 row374 5.000000
+ col3 row375 5.000000
+ col3 row376 1.000000
+ col3 row377 1.000000
+ col3 row378 1.000000
+ col3 row379 1.000000
+ col3 row380 1.000000
+ col3 row381 2.000000
+ col3 row382 2.000000
+ col3 row383 2.000000
+ col3 row384 2.000000
+ col3 row385 2.000000
+ col3 row386 3.000000
+ col3 row387 3.000000
+ col3 row388 3.000000
+ col3 row389 3.000000
+ col3 row390 3.000000
+ col3 row391 4.000000
+ col3 row392 4.000000
+ col3 row393 4.000000
+ col3 row394 4.000000
+ col3 row395 4.000000
+ col3 row396 5.000000
+ col3 row397 5.000000
+ col3 row398 5.000000
+ col3 row399 5.000000
+ col3 row400 5.000000
+ col3 row401 1.000000
+ col3 row402 1.000000
+ col3 row403 1.000000
+ col3 row404 1.000000
+ col3 row405 1.000000
+ col3 row406 2.000000
+ col3 row407 2.000000
+ col3 row408 2.000000
+ col3 row409 2.000000
+ col3 row410 2.000000
+ col3 row411 3.000000
+ col3 row412 3.000000
+ col3 row413 3.000000
+ col3 row414 3.000000
+ col3 row415 3.000000
+ col3 row416 4.000000
+ col3 row417 4.000000
+ col3 row418 4.000000
+ col3 row419 4.000000
+ col3 row420 4.000000
+ col3 row421 5.000000
+ col3 row422 5.000000
+ col3 row423 5.000000
+ col3 row424 5.000000
+ col3 row425 5.000000
+ col3 row426 1.000000
+ col3 row427 1.000000
+ col3 row428 1.000000
+ col3 row429 1.000000
+ col3 row430 1.000000
+ col3 row431 2.000000
+ col3 row432 2.000000
+ col3 row433 2.000000
+ col3 row434 2.000000
+ col3 row435 2.000000
+ col3 row436 3.000000
+ col3 row437 3.000000
+ col3 row438 3.000000
+ col3 row439 3.000000
+ col3 row440 3.000000
+ col3 row441 4.000000
+ col3 row442 4.000000
+ col3 row443 4.000000
+ col3 row444 4.000000
+ col3 row445 4.000000
+ col3 row446 5.000000
+ col3 row447 5.000000
+ col3 row448 5.000000
+ col3 row449 5.000000
+ col3 row450 5.000000
+ col3 row451 1.000000
+ col3 row452 1.000000
+ col3 row453 1.000000
+ col3 row454 1.000000
+ col3 row455 1.000000
+ col3 row456 2.000000
+ col3 row457 2.000000
+ col3 row458 2.000000
+ col3 row459 2.000000
+ col3 row460 2.000000
+ col3 row461 3.000000
+ col3 row462 3.000000
+ col3 row463 3.000000
+ col3 row464 3.000000
+ col3 row465 3.000000
+ col3 row466 4.000000
+ col3 row467 4.000000
+ col3 row468 4.000000
+ col3 row469 4.000000
+ col3 row470 4.000000
+ col3 row471 5.000000
+ col3 row472 5.000000
+ col3 row473 5.000000
+ col3 row474 5.000000
+ col3 row475 5.000000
+ col3 row476 1.000000
+ col3 row477 1.000000
+ col3 row478 1.000000
+ col3 row479 1.000000
+ col3 row480 1.000000
+ col3 row481 2.000000
+ col3 row482 2.000000
+ col3 row483 2.000000
+ col3 row484 2.000000
+ col3 row485 2.000000
+ col3 row486 3.000000
+ col3 row487 3.000000
+ col3 row488 3.000000
+ col3 row489 3.000000
+ col3 row490 3.000000
+ col3 row491 4.000000
+ col3 row492 4.000000
+ col3 row493 4.000000
+ col3 row494 4.000000
+ col3 row495 4.000000
+ col3 row496 5.000000
+ col3 row497 5.000000
+ col3 row498 5.000000
+ col3 row499 5.000000
+ col3 row500 5.000000
+ col3 row501 1.000000
+ col3 row502 1.000000
+ col3 row503 1.000000
+ col3 row504 1.000000
+ col3 row505 1.000000
+ col3 row506 2.000000
+ col3 row507 2.000000
+ col3 row508 2.000000
+ col3 row509 2.000000
+ col3 row510 2.000000
+ col3 row511 3.000000
+ col3 row512 3.000000
+ col3 row513 3.000000
+ col3 row514 3.000000
+ col3 row515 3.000000
+ col3 row516 4.000000
+ col3 row517 4.000000
+ col3 row518 4.000000
+ col3 row519 4.000000
+ col3 row520 4.000000
+ col3 row521 5.000000
+ col3 row522 5.000000
+ col3 row523 5.000000
+ col3 row524 5.000000
+ col3 row525 5.000000
+ col3 row526 1.000000
+ col3 row527 1.000000
+ col3 row528 1.000000
+ col3 row529 1.000000
+ col3 row530 1.000000
+ col3 row531 2.000000
+ col3 row532 2.000000
+ col3 row533 2.000000
+ col3 row534 2.000000
+ col3 row535 2.000000
+ col3 row536 3.000000
+ col3 row537 3.000000
+ col3 row538 3.000000
+ col3 row539 3.000000
+ col3 row540 3.000000
+ col3 row541 4.000000
+ col3 row542 4.000000
+ col3 row543 4.000000
+ col3 row544 4.000000
+ col3 row545 4.000000
+ col3 row546 5.000000
+ col3 row547 5.000000
+ col3 row548 5.000000
+ col3 row549 5.000000
+ col3 row550 5.000000
+ col3 row551 1.000000
+ col3 row552 1.000000
+ col3 row553 1.000000
+ col3 row554 1.000000
+ col3 row555 1.000000
+ col3 row556 2.000000
+ col3 row557 2.000000
+ col3 row558 2.000000
+ col3 row559 2.000000
+ col3 row560 2.000000
+ col3 row561 3.000000
+ col3 row562 3.000000
+ col3 row563 3.000000
+ col3 row564 3.000000
+ col3 row565 3.000000
+ col3 row566 4.000000
+ col3 row567 4.000000
+ col3 row568 4.000000
+ col3 row569 4.000000
+ col3 row570 4.000000
+ col3 row571 5.000000
+ col3 row572 5.000000
+ col3 row573 5.000000
+ col3 row574 5.000000
+ col3 row575 5.000000
+ col3 row576 1.000000
+ col3 row577 1.000000
+ col3 row578 1.000000
+ col3 row579 1.000000
+ col3 row580 1.000000
+ col3 row581 2.000000
+ col3 row582 2.000000
+ col3 row583 2.000000
+ col3 row584 2.000000
+ col3 row585 2.000000
+ col3 row586 3.000000
+ col3 row587 3.000000
+ col3 row588 3.000000
+ col3 row589 3.000000
+ col3 row590 3.000000
+ col3 row591 4.000000
+ col3 row592 4.000000
+ col3 row593 4.000000
+ col3 row594 4.000000
+ col3 row595 4.000000
+ col3 row596 5.000000
+ col3 row597 5.000000
+ col3 row598 5.000000
+ col3 row599 5.000000
+ col3 row600 5.000000
+ col3 row601 1.000000
+ col3 row602 1.000000
+ col3 row603 1.000000
+ col3 row604 1.000000
+ col3 row605 1.000000
+ col3 row606 2.000000
+ col3 row607 2.000000
+ col3 row608 2.000000
+ col3 row609 2.000000
+ col3 row610 2.000000
+ col3 row611 3.000000
+ col3 row612 3.000000
+ col3 row613 3.000000
+ col3 row614 3.000000
+ col3 row615 3.000000
+ col3 row616 4.000000
+ col3 row617 4.000000
+ col3 row618 4.000000
+ col3 row619 4.000000
+ col3 row620 4.000000
+ col3 row621 5.000000
+ col3 row622 5.000000
+ col3 row623 5.000000
+ col3 row624 5.000000
+ col3 row625 5.000000
+ col4 row1 1.000000
+ col4 row2 2.000000
+ col4 row3 3.000000
+ col4 row4 4.000000
+ col4 row5 5.000000
+ col4 row6 1.000000
+ col4 row7 2.000000
+ col4 row8 3.000000
+ col4 row9 4.000000
+ col4 row10 5.000000
+ col4 row11 1.000000
+ col4 row12 2.000000
+ col4 row13 3.000000
+ col4 row14 4.000000
+ col4 row15 5.000000
+ col4 row16 1.000000
+ col4 row17 2.000000
+ col4 row18 3.000000
+ col4 row19 4.000000
+ col4 row20 5.000000
+ col4 row21 1.000000
+ col4 row22 2.000000
+ col4 row23 3.000000
+ col4 row24 4.000000
+ col4 row25 5.000000
+ col4 row26 1.000000
+ col4 row27 2.000000
+ col4 row28 3.000000
+ col4 row29 4.000000
+ col4 row30 5.000000
+ col4 row31 1.000000
+ col4 row32 2.000000
+ col4 row33 3.000000
+ col4 row34 4.000000
+ col4 row35 5.000000
+ col4 row36 1.000000
+ col4 row37 2.000000
+ col4 row38 3.000000
+ col4 row39 4.000000
+ col4 row40 5.000000
+ col4 row41 1.000000
+ col4 row42 2.000000
+ col4 row43 3.000000
+ col4 row44 4.000000
+ col4 row45 5.000000
+ col4 row46 1.000000
+ col4 row47 2.000000
+ col4 row48 3.000000
+ col4 row49 4.000000
+ col4 row50 5.000000
+ col4 row51 1.000000
+ col4 row52 2.000000
+ col4 row53 3.000000
+ col4 row54 4.000000
+ col4 row55 5.000000
+ col4 row56 1.000000
+ col4 row57 2.000000
+ col4 row58 3.000000
+ col4 row59 4.000000
+ col4 row60 5.000000
+ col4 row61 1.000000
+ col4 row62 2.000000
+ col4 row63 3.000000
+ col4 row64 4.000000
+ col4 row65 5.000000
+ col4 row66 1.000000
+ col4 row67 2.000000
+ col4 row68 3.000000
+ col4 row69 4.000000
+ col4 row70 5.000000
+ col4 row71 1.000000
+ col4 row72 2.000000
+ col4 row73 3.000000
+ col4 row74 4.000000
+ col4 row75 5.000000
+ col4 row76 1.000000
+ col4 row77 2.000000
+ col4 row78 3.000000
+ col4 row79 4.000000
+ col4 row80 5.000000
+ col4 row81 1.000000
+ col4 row82 2.000000
+ col4 row83 3.000000
+ col4 row84 4.000000
+ col4 row85 5.000000
+ col4 row86 1.000000
+ col4 row87 2.000000
+ col4 row88 3.000000
+ col4 row89 4.000000
+ col4 row90 5.000000
+ col4 row91 1.000000
+ col4 row92 2.000000
+ col4 row93 3.000000
+ col4 row94 4.000000
+ col4 row95 5.000000
+ col4 row96 1.000000
+ col4 row97 2.000000
+ col4 row98 3.000000
+ col4 row99 4.000000
+ col4 row100 5.000000
+ col4 row101 1.000000
+ col4 row102 2.000000
+ col4 row103 3.000000
+ col4 row104 4.000000
+ col4 row105 5.000000
+ col4 row106 1.000000
+ col4 row107 2.000000
+ col4 row108 3.000000
+ col4 row109 4.000000
+ col4 row110 5.000000
+ col4 row111 1.000000
+ col4 row112 2.000000
+ col4 row113 3.000000
+ col4 row114 4.000000
+ col4 row115 5.000000
+ col4 row116 1.000000
+ col4 row117 2.000000
+ col4 row118 3.000000
+ col4 row119 4.000000
+ col4 row120 5.000000
+ col4 row121 1.000000
+ col4 row122 2.000000
+ col4 row123 3.000000
+ col4 row124 4.000000
+ col4 row125 5.000000
+ col4 row126 1.000000
+ col4 row127 2.000000
+ col4 row128 3.000000
+ col4 row129 4.000000
+ col4 row130 5.000000
+ col4 row131 1.000000
+ col4 row132 2.000000
+ col4 row133 3.000000
+ col4 row134 4.000000
+ col4 row135 5.000000
+ col4 row136 1.000000
+ col4 row137 2.000000
+ col4 row138 3.000000
+ col4 row139 4.000000
+ col4 row140 5.000000
+ col4 row141 1.000000
+ col4 row142 2.000000
+ col4 row143 3.000000
+ col4 row144 4.000000
+ col4 row145 5.000000
+ col4 row146 1.000000
+ col4 row147 2.000000
+ col4 row148 3.000000
+ col4 row149 4.000000
+ col4 row150 5.000000
+ col4 row151 1.000000
+ col4 row152 2.000000
+ col4 row153 3.000000
+ col4 row154 4.000000
+ col4 row155 5.000000
+ col4 row156 1.000000
+ col4 row157 2.000000
+ col4 row158 3.000000
+ col4 row159 4.000000
+ col4 row160 5.000000
+ col4 row161 1.000000
+ col4 row162 2.000000
+ col4 row163 3.000000
+ col4 row164 4.000000
+ col4 row165 5.000000
+ col4 row166 1.000000
+ col4 row167 2.000000
+ col4 row168 3.000000
+ col4 row169 4.000000
+ col4 row170 5.000000
+ col4 row171 1.000000
+ col4 row172 2.000000
+ col4 row173 3.000000
+ col4 row174 4.000000
+ col4 row175 5.000000
+ col4 row176 1.000000
+ col4 row177 2.000000
+ col4 row178 3.000000
+ col4 row179 4.000000
+ col4 row180 5.000000
+ col4 row181 1.000000
+ col4 row182 2.000000
+ col4 row183 3.000000
+ col4 row184 4.000000
+ col4 row185 5.000000
+ col4 row186 1.000000
+ col4 row187 2.000000
+ col4 row188 3.000000
+ col4 row189 4.000000
+ col4 row190 5.000000
+ col4 row191 1.000000
+ col4 row192 2.000000
+ col4 row193 3.000000
+ col4 row194 4.000000
+ col4 row195 5.000000
+ col4 row196 1.000000
+ col4 row197 2.000000
+ col4 row198 3.000000
+ col4 row199 4.000000
+ col4 row200 5.000000
+ col4 row201 1.000000
+ col4 row202 2.000000
+ col4 row203 3.000000
+ col4 row204 4.000000
+ col4 row205 5.000000
+ col4 row206 1.000000
+ col4 row207 2.000000
+ col4 row208 3.000000
+ col4 row209 4.000000
+ col4 row210 5.000000
+ col4 row211 1.000000
+ col4 row212 2.000000
+ col4 row213 3.000000
+ col4 row214 4.000000
+ col4 row215 5.000000
+ col4 row216 1.000000
+ col4 row217 2.000000
+ col4 row218 3.000000
+ col4 row219 4.000000
+ col4 row220 5.000000
+ col4 row221 1.000000
+ col4 row222 2.000000
+ col4 row223 3.000000
+ col4 row224 4.000000
+ col4 row225 5.000000
+ col4 row226 1.000000
+ col4 row227 2.000000
+ col4 row228 3.000000
+ col4 row229 4.000000
+ col4 row230 5.000000
+ col4 row231 1.000000
+ col4 row232 2.000000
+ col4 row233 3.000000
+ col4 row234 4.000000
+ col4 row235 5.000000
+ col4 row236 1.000000
+ col4 row237 2.000000
+ col4 row238 3.000000
+ col4 row239 4.000000
+ col4 row240 5.000000
+ col4 row241 1.000000
+ col4 row242 2.000000
+ col4 row243 3.000000
+ col4 row244 4.000000
+ col4 row245 5.000000
+ col4 row246 1.000000
+ col4 row247 2.000000
+ col4 row248 3.000000
+ col4 row249 4.000000
+ col4 row250 5.000000
+ col4 row251 1.000000
+ col4 row252 2.000000
+ col4 row253 3.000000
+ col4 row254 4.000000
+ col4 row255 5.000000
+ col4 row256 1.000000
+ col4 row257 2.000000
+ col4 row258 3.000000
+ col4 row259 4.000000
+ col4 row260 5.000000
+ col4 row261 1.000000
+ col4 row262 2.000000
+ col4 row263 3.000000
+ col4 row264 4.000000
+ col4 row265 5.000000
+ col4 row266 1.000000
+ col4 row267 2.000000
+ col4 row268 3.000000
+ col4 row269 4.000000
+ col4 row270 5.000000
+ col4 row271 1.000000
+ col4 row272 2.000000
+ col4 row273 3.000000
+ col4 row274 4.000000
+ col4 row275 5.000000
+ col4 row276 1.000000
+ col4 row277 2.000000
+ col4 row278 3.000000
+ col4 row279 4.000000
+ col4 row280 5.000000
+ col4 row281 1.000000
+ col4 row282 2.000000
+ col4 row283 3.000000
+ col4 row284 4.000000
+ col4 row285 5.000000
+ col4 row286 1.000000
+ col4 row287 2.000000
+ col4 row288 3.000000
+ col4 row289 4.000000
+ col4 row290 5.000000
+ col4 row291 1.000000
+ col4 row292 2.000000
+ col4 row293 3.000000
+ col4 row294 4.000000
+ col4 row295 5.000000
+ col4 row296 1.000000
+ col4 row297 2.000000
+ col4 row298 3.000000
+ col4 row299 4.000000
+ col4 row300 5.000000
+ col4 row301 1.000000
+ col4 row302 2.000000
+ col4 row303 3.000000
+ col4 row304 4.000000
+ col4 row305 5.000000
+ col4 row306 1.000000
+ col4 row307 2.000000
+ col4 row308 3.000000
+ col4 row309 4.000000
+ col4 row310 5.000000
+ col4 row311 1.000000
+ col4 row312 2.000000
+ col4 row313 3.000000
+ col4 row314 4.000000
+ col4 row315 5.000000
+ col4 row316 1.000000
+ col4 row317 2.000000
+ col4 row318 3.000000
+ col4 row319 4.000000
+ col4 row320 5.000000
+ col4 row321 1.000000
+ col4 row322 2.000000
+ col4 row323 3.000000
+ col4 row324 4.000000
+ col4 row325 5.000000
+ col4 row326 1.000000
+ col4 row327 2.000000
+ col4 row328 3.000000
+ col4 row329 4.000000
+ col4 row330 5.000000
+ col4 row331 1.000000
+ col4 row332 2.000000
+ col4 row333 3.000000
+ col4 row334 4.000000
+ col4 row335 5.000000
+ col4 row336 1.000000
+ col4 row337 2.000000
+ col4 row338 3.000000
+ col4 row339 4.000000
+ col4 row340 5.000000
+ col4 row341 1.000000
+ col4 row342 2.000000
+ col4 row343 3.000000
+ col4 row344 4.000000
+ col4 row345 5.000000
+ col4 row346 1.000000
+ col4 row347 2.000000
+ col4 row348 3.000000
+ col4 row349 4.000000
+ col4 row350 5.000000
+ col4 row351 1.000000
+ col4 row352 2.000000
+ col4 row353 3.000000
+ col4 row354 4.000000
+ col4 row355 5.000000
+ col4 row356 1.000000
+ col4 row357 2.000000
+ col4 row358 3.000000
+ col4 row359 4.000000
+ col4 row360 5.000000
+ col4 row361 1.000000
+ col4 row362 2.000000
+ col4 row363 3.000000
+ col4 row364 4.000000
+ col4 row365 5.000000
+ col4 row366 1.000000
+ col4 row367 2.000000
+ col4 row368 3.000000
+ col4 row369 4.000000
+ col4 row370 5.000000
+ col4 row371 1.000000
+ col4 row372 2.000000
+ col4 row373 3.000000
+ col4 row374 4.000000
+ col4 row375 5.000000
+ col4 row376 1.000000
+ col4 row377 2.000000
+ col4 row378 3.000000
+ col4 row379 4.000000
+ col4 row380 5.000000
+ col4 row381 1.000000
+ col4 row382 2.000000
+ col4 row383 3.000000
+ col4 row384 4.000000
+ col4 row385 5.000000
+ col4 row386 1.000000
+ col4 row387 2.000000
+ col4 row388 3.000000
+ col4 row389 4.000000
+ col4 row390 5.000000
+ col4 row391 1.000000
+ col4 row392 2.000000
+ col4 row393 3.000000
+ col4 row394 4.000000
+ col4 row395 5.000000
+ col4 row396 1.000000
+ col4 row397 2.000000
+ col4 row398 3.000000
+ col4 row399 4.000000
+ col4 row400 5.000000
+ col4 row401 1.000000
+ col4 row402 2.000000
+ col4 row403 3.000000
+ col4 row404 4.000000
+ col4 row405 5.000000
+ col4 row406 1.000000
+ col4 row407 2.000000
+ col4 row408 3.000000
+ col4 row409 4.000000
+ col4 row410 5.000000
+ col4 row411 1.000000
+ col4 row412 2.000000
+ col4 row413 3.000000
+ col4 row414 4.000000
+ col4 row415 5.000000
+ col4 row416 1.000000
+ col4 row417 2.000000
+ col4 row418 3.000000
+ col4 row419 4.000000
+ col4 row420 5.000000
+ col4 row421 1.000000
+ col4 row422 2.000000
+ col4 row423 3.000000
+ col4 row424 4.000000
+ col4 row425 5.000000
+ col4 row426 1.000000
+ col4 row427 2.000000
+ col4 row428 3.000000
+ col4 row429 4.000000
+ col4 row430 5.000000
+ col4 row431 1.000000
+ col4 row432 2.000000
+ col4 row433 3.000000
+ col4 row434 4.000000
+ col4 row435 5.000000
+ col4 row436 1.000000
+ col4 row437 2.000000
+ col4 row438 3.000000
+ col4 row439 4.000000
+ col4 row440 5.000000
+ col4 row441 1.000000
+ col4 row442 2.000000
+ col4 row443 3.000000
+ col4 row444 4.000000
+ col4 row445 5.000000
+ col4 row446 1.000000
+ col4 row447 2.000000
+ col4 row448 3.000000
+ col4 row449 4.000000
+ col4 row450 5.000000
+ col4 row451 1.000000
+ col4 row452 2.000000
+ col4 row453 3.000000
+ col4 row454 4.000000
+ col4 row455 5.000000
+ col4 row456 1.000000
+ col4 row457 2.000000
+ col4 row458 3.000000
+ col4 row459 4.000000
+ col4 row460 5.000000
+ col4 row461 1.000000
+ col4 row462 2.000000
+ col4 row463 3.000000
+ col4 row464 4.000000
+ col4 row465 5.000000
+ col4 row466 1.000000
+ col4 row467 2.000000
+ col4 row468 3.000000
+ col4 row469 4.000000
+ col4 row470 5.000000
+ col4 row471 1.000000
+ col4 row472 2.000000
+ col4 row473 3.000000
+ col4 row474 4.000000
+ col4 row475 5.000000
+ col4 row476 1.000000
+ col4 row477 2.000000
+ col4 row478 3.000000
+ col4 row479 4.000000
+ col4 row480 5.000000
+ col4 row481 1.000000
+ col4 row482 2.000000
+ col4 row483 3.000000
+ col4 row484 4.000000
+ col4 row485 5.000000
+ col4 row486 1.000000
+ col4 row487 2.000000
+ col4 row488 3.000000
+ col4 row489 4.000000
+ col4 row490 5.000000
+ col4 row491 1.000000
+ col4 row492 2.000000
+ col4 row493 3.000000
+ col4 row494 4.000000
+ col4 row495 5.000000
+ col4 row496 1.000000
+ col4 row497 2.000000
+ col4 row498 3.000000
+ col4 row499 4.000000
+ col4 row500 5.000000
+ col4 row501 1.000000
+ col4 row502 2.000000
+ col4 row503 3.000000
+ col4 row504 4.000000
+ col4 row505 5.000000
+ col4 row506 1.000000
+ col4 row507 2.000000
+ col4 row508 3.000000
+ col4 row509 4.000000
+ col4 row510 5.000000
+ col4 row511 1.000000
+ col4 row512 2.000000
+ col4 row513 3.000000
+ col4 row514 4.000000
+ col4 row515 5.000000
+ col4 row516 1.000000
+ col4 row517 2.000000
+ col4 row518 3.000000
+ col4 row519 4.000000
+ col4 row520 5.000000
+ col4 row521 1.000000
+ col4 row522 2.000000
+ col4 row523 3.000000
+ col4 row524 4.000000
+ col4 row525 5.000000
+ col4 row526 1.000000
+ col4 row527 2.000000
+ col4 row528 3.000000
+ col4 row529 4.000000
+ col4 row530 5.000000
+ col4 row531 1.000000
+ col4 row532 2.000000
+ col4 row533 3.000000
+ col4 row534 4.000000
+ col4 row535 5.000000
+ col4 row536 1.000000
+ col4 row537 2.000000
+ col4 row538 3.000000
+ col4 row539 4.000000
+ col4 row540 5.000000
+ col4 row541 1.000000
+ col4 row542 2.000000
+ col4 row543 3.000000
+ col4 row544 4.000000
+ col4 row545 5.000000
+ col4 row546 1.000000
+ col4 row547 2.000000
+ col4 row548 3.000000
+ col4 row549 4.000000
+ col4 row550 5.000000
+ col4 row551 1.000000
+ col4 row552 2.000000
+ col4 row553 3.000000
+ col4 row554 4.000000
+ col4 row555 5.000000
+ col4 row556 1.000000
+ col4 row557 2.000000
+ col4 row558 3.000000
+ col4 row559 4.000000
+ col4 row560 5.000000
+ col4 row561 1.000000
+ col4 row562 2.000000
+ col4 row563 3.000000
+ col4 row564 4.000000
+ col4 row565 5.000000
+ col4 row566 1.000000
+ col4 row567 2.000000
+ col4 row568 3.000000
+ col4 row569 4.000000
+ col4 row570 5.000000
+ col4 row571 1.000000
+ col4 row572 2.000000
+ col4 row573 3.000000
+ col4 row574 4.000000
+ col4 row575 5.000000
+ col4 row576 1.000000
+ col4 row577 2.000000
+ col4 row578 3.000000
+ col4 row579 4.000000
+ col4 row580 5.000000
+ col4 row581 1.000000
+ col4 row582 2.000000
+ col4 row583 3.000000
+ col4 row584 4.000000
+ col4 row585 5.000000
+ col4 row586 1.000000
+ col4 row587 2.000000
+ col4 row588 3.000000
+ col4 row589 4.000000
+ col4 row590 5.000000
+ col4 row591 1.000000
+ col4 row592 2.000000
+ col4 row593 3.000000
+ col4 row594 4.000000
+ col4 row595 5.000000
+ col4 row596 1.000000
+ col4 row597 2.000000
+ col4 row598 3.000000
+ col4 row599 4.000000
+ col4 row600 5.000000
+ col4 row601 1.000000
+ col4 row602 2.000000
+ col4 row603 3.000000
+ col4 row604 4.000000
+ col4 row605 5.000000
+ col4 row606 1.000000
+ col4 row607 2.000000
+ col4 row608 3.000000
+ col4 row609 4.000000
+ col4 row610 5.000000
+ col4 row611 1.000000
+ col4 row612 2.000000
+ col4 row613 3.000000
+ col4 row614 4.000000
+ col4 row615 5.000000
+ col4 row616 1.000000
+ col4 row617 2.000000
+ col4 row618 3.000000
+ col4 row619 4.000000
+ col4 row620 5.000000
+ col4 row621 1.000000
+ col4 row622 2.000000
+ col4 row623 3.000000
+ col4 row624 4.000000
+ col4 row625 5.000000
+ col5 row1 -1
+ col5 row2 -1
+ col5 row3 -1
+ col5 row4 -1
+ col5 row5 -1
+ col5 row6 -1
+ col5 row7 -1
+ col5 row8 -1
+ col5 row9 -1
+ col5 row10 -1
+ col5 row11 -1
+ col5 row12 -1
+ col5 row13 -1
+ col5 row14 -1
+ col5 row15 -1
+ col5 row16 -1
+ col5 row17 -1
+ col5 row18 -1
+ col5 row19 -1
+ col5 row20 -1
+ col5 row21 -1
+ col5 row22 -1
+ col5 row23 -1
+ col5 row24 -1
+ col5 row25 -1
+ col5 row26 -1
+ col5 row27 -1
+ col5 row28 -1
+ col5 row29 -1
+ col5 row30 -1
+ col5 row31 -1
+ col5 row32 -1
+ col5 row33 -1
+ col5 row34 -1
+ col5 row35 -1
+ col5 row36 -1
+ col5 row37 -1
+ col5 row38 -1
+ col5 row39 -1
+ col5 row40 -1
+ col5 row41 -1
+ col5 row42 -1
+ col5 row43 -1
+ col5 row44 -1
+ col5 row45 -1
+ col5 row46 -1
+ col5 row47 -1
+ col5 row48 -1
+ col5 row49 -1
+ col5 row50 -1
+ col5 row51 -1
+ col5 row52 -1
+ col5 row53 -1
+ col5 row54 -1
+ col5 row55 -1
+ col5 row56 -1
+ col5 row57 -1
+ col5 row58 -1
+ col5 row59 -1
+ col5 row60 -1
+ col5 row61 -1
+ col5 row62 -1
+ col5 row63 -1
+ col5 row64 -1
+ col5 row65 -1
+ col5 row66 -1
+ col5 row67 -1
+ col5 row68 -1
+ col5 row69 -1
+ col5 row70 -1
+ col5 row71 -1
+ col5 row72 -1
+ col5 row73 -1
+ col5 row74 -1
+ col5 row75 -1
+ col5 row76 -1
+ col5 row77 -1
+ col5 row78 -1
+ col5 row79 -1
+ col5 row80 -1
+ col5 row81 -1
+ col5 row82 -1
+ col5 row83 -1
+ col5 row84 -1
+ col5 row85 -1
+ col5 row86 -1
+ col5 row87 -1
+ col5 row88 -1
+ col5 row89 -1
+ col5 row90 -1
+ col5 row91 -1
+ col5 row92 -1
+ col5 row93 -1
+ col5 row94 -1
+ col5 row95 -1
+ col5 row96 -1
+ col5 row97 -1
+ col5 row98 -1
+ col5 row99 -1
+ col5 row100 -1
+ col5 row101 -1
+ col5 row102 -1
+ col5 row103 -1
+ col5 row104 -1
+ col5 row105 -1
+ col5 row106 -1
+ col5 row107 -1
+ col5 row108 -1
+ col5 row109 -1
+ col5 row110 -1
+ col5 row111 -1
+ col5 row112 -1
+ col5 row113 -1
+ col5 row114 -1
+ col5 row115 -1
+ col5 row116 -1
+ col5 row117 -1
+ col5 row118 -1
+ col5 row119 -1
+ col5 row120 -1
+ col5 row121 -1
+ col5 row122 -1
+ col5 row123 -1
+ col5 row124 -1
+ col5 row125 -1
+ col5 row126 -1
+ col5 row127 -1
+ col5 row128 -1
+ col5 row129 -1
+ col5 row130 -1
+ col5 row131 -1
+ col5 row132 -1
+ col5 row133 -1
+ col5 row134 -1
+ col5 row135 -1
+ col5 row136 -1
+ col5 row137 -1
+ col5 row138 -1
+ col5 row139 -1
+ col5 row140 -1
+ col5 row141 -1
+ col5 row142 -1
+ col5 row143 -1
+ col5 row144 -1
+ col5 row145 -1
+ col5 row146 -1
+ col5 row147 -1
+ col5 row148 -1
+ col5 row149 -1
+ col5 row150 -1
+ col5 row151 -1
+ col5 row152 -1
+ col5 row153 -1
+ col5 row154 -1
+ col5 row155 -1
+ col5 row156 -1
+ col5 row157 -1
+ col5 row158 -1
+ col5 row159 -1
+ col5 row160 -1
+ col5 row161 -1
+ col5 row162 -1
+ col5 row163 -1
+ col5 row164 -1
+ col5 row165 -1
+ col5 row166 -1
+ col5 row167 -1
+ col5 row168 -1
+ col5 row169 -1
+ col5 row170 -1
+ col5 row171 -1
+ col5 row172 -1
+ col5 row173 -1
+ col5 row174 -1
+ col5 row175 -1
+ col5 row176 -1
+ col5 row177 -1
+ col5 row178 -1
+ col5 row179 -1
+ col5 row180 -1
+ col5 row181 -1
+ col5 row182 -1
+ col5 row183 -1
+ col5 row184 -1
+ col5 row185 -1
+ col5 row186 -1
+ col5 row187 -1
+ col5 row188 -1
+ col5 row189 -1
+ col5 row190 -1
+ col5 row191 -1
+ col5 row192 -1
+ col5 row193 -1
+ col5 row194 -1
+ col5 row195 -1
+ col5 row196 -1
+ col5 row197 -1
+ col5 row198 -1
+ col5 row199 -1
+ col5 row200 -1
+ col5 row201 -1
+ col5 row202 -1
+ col5 row203 -1
+ col5 row204 -1
+ col5 row205 -1
+ col5 row206 -1
+ col5 row207 -1
+ col5 row208 -1
+ col5 row209 -1
+ col5 row210 -1
+ col5 row211 -1
+ col5 row212 -1
+ col5 row213 -1
+ col5 row214 -1
+ col5 row215 -1
+ col5 row216 -1
+ col5 row217 -1
+ col5 row218 -1
+ col5 row219 -1
+ col5 row220 -1
+ col5 row221 -1
+ col5 row222 -1
+ col5 row223 -1
+ col5 row224 -1
+ col5 row225 -1
+ col5 row226 -1
+ col5 row227 -1
+ col5 row228 -1
+ col5 row229 -1
+ col5 row230 -1
+ col5 row231 -1
+ col5 row232 -1
+ col5 row233 -1
+ col5 row234 -1
+ col5 row235 -1
+ col5 row236 -1
+ col5 row237 -1
+ col5 row238 -1
+ col5 row239 -1
+ col5 row240 -1
+ col5 row241 -1
+ col5 row242 -1
+ col5 row243 -1
+ col5 row244 -1
+ col5 row245 -1
+ col5 row246 -1
+ col5 row247 -1
+ col5 row248 -1
+ col5 row249 -1
+ col5 row250 -1
+ col5 row251 -1
+ col5 row252 -1
+ col5 row253 -1
+ col5 row254 -1
+ col5 row255 -1
+ col5 row256 -1
+ col5 row257 -1
+ col5 row258 -1
+ col5 row259 -1
+ col5 row260 -1
+ col5 row261 -1
+ col5 row262 -1
+ col5 row263 -1
+ col5 row264 -1
+ col5 row265 -1
+ col5 row266 -1
+ col5 row267 -1
+ col5 row268 -1
+ col5 row269 -1
+ col5 row270 -1
+ col5 row271 -1
+ col5 row272 -1
+ col5 row273 -1
+ col5 row274 -1
+ col5 row275 -1
+ col5 row276 -1
+ col5 row277 -1
+ col5 row278 -1
+ col5 row279 -1
+ col5 row280 -1
+ col5 row281 -1
+ col5 row282 -1
+ col5 row283 -1
+ col5 row284 -1
+ col5 row285 -1
+ col5 row286 -1
+ col5 row287 -1
+ col5 row288 -1
+ col5 row289 -1
+ col5 row290 -1
+ col5 row291 -1
+ col5 row292 -1
+ col5 row293 -1
+ col5 row294 -1
+ col5 row295 -1
+ col5 row296 -1
+ col5 row297 -1
+ col5 row298 -1
+ col5 row299 -1
+ col5 row300 -1
+ col5 row301 -1
+ col5 row302 -1
+ col5 row303 -1
+ col5 row304 -1
+ col5 row305 -1
+ col5 row306 -1
+ col5 row307 -1
+ col5 row308 -1
+ col5 row309 -1
+ col5 row310 -1
+ col5 row311 -1
+ col5 row312 -1
+ col5 row313 -1
+ col5 row314 -1
+ col5 row315 -1
+ col5 row316 -1
+ col5 row317 -1
+ col5 row318 -1
+ col5 row319 -1
+ col5 row320 -1
+ col5 row321 -1
+ col5 row322 -1
+ col5 row323 -1
+ col5 row324 -1
+ col5 row325 -1
+ col5 row326 -1
+ col5 row327 -1
+ col5 row328 -1
+ col5 row329 -1
+ col5 row330 -1
+ col5 row331 -1
+ col5 row332 -1
+ col5 row333 -1
+ col5 row334 -1
+ col5 row335 -1
+ col5 row336 -1
+ col5 row337 -1
+ col5 row338 -1
+ col5 row339 -1
+ col5 row340 -1
+ col5 row341 -1
+ col5 row342 -1
+ col5 row343 -1
+ col5 row344 -1
+ col5 row345 -1
+ col5 row346 -1
+ col5 row347 -1
+ col5 row348 -1
+ col5 row349 -1
+ col5 row350 -1
+ col5 row351 -1
+ col5 row352 -1
+ col5 row353 -1
+ col5 row354 -1
+ col5 row355 -1
+ col5 row356 -1
+ col5 row357 -1
+ col5 row358 -1
+ col5 row359 -1
+ col5 row360 -1
+ col5 row361 -1
+ col5 row362 -1
+ col5 row363 -1
+ col5 row364 -1
+ col5 row365 -1
+ col5 row366 -1
+ col5 row367 -1
+ col5 row368 -1
+ col5 row369 -1
+ col5 row370 -1
+ col5 row371 -1
+ col5 row372 -1
+ col5 row373 -1
+ col5 row374 -1
+ col5 row375 -1
+ col5 row376 -1
+ col5 row377 -1
+ col5 row378 -1
+ col5 row379 -1
+ col5 row380 -1
+ col5 row381 -1
+ col5 row382 -1
+ col5 row383 -1
+ col5 row384 -1
+ col5 row385 -1
+ col5 row386 -1
+ col5 row387 -1
+ col5 row388 -1
+ col5 row389 -1
+ col5 row390 -1
+ col5 row391 -1
+ col5 row392 -1
+ col5 row393 -1
+ col5 row394 -1
+ col5 row395 -1
+ col5 row396 -1
+ col5 row397 -1
+ col5 row398 -1
+ col5 row399 -1
+ col5 row400 -1
+ col5 row401 -1
+ col5 row402 -1
+ col5 row403 -1
+ col5 row404 -1
+ col5 row405 -1
+ col5 row406 -1
+ col5 row407 -1
+ col5 row408 -1
+ col5 row409 -1
+ col5 row410 -1
+ col5 row411 -1
+ col5 row412 -1
+ col5 row413 -1
+ col5 row414 -1
+ col5 row415 -1
+ col5 row416 -1
+ col5 row417 -1
+ col5 row418 -1
+ col5 row419 -1
+ col5 row420 -1
+ col5 row421 -1
+ col5 row422 -1
+ col5 row423 -1
+ col5 row424 -1
+ col5 row425 -1
+ col5 row426 -1
+ col5 row427 -1
+ col5 row428 -1
+ col5 row429 -1
+ col5 row430 -1
+ col5 row431 -1
+ col5 row432 -1
+ col5 row433 -1
+ col5 row434 -1
+ col5 row435 -1
+ col5 row436 -1
+ col5 row437 -1
+ col5 row438 -1
+ col5 row439 -1
+ col5 row440 -1
+ col5 row441 -1
+ col5 row442 -1
+ col5 row443 -1
+ col5 row444 -1
+ col5 row445 -1
+ col5 row446 -1
+ col5 row447 -1
+ col5 row448 -1
+ col5 row449 -1
+ col5 row450 -1
+ col5 row451 -1
+ col5 row452 -1
+ col5 row453 -1
+ col5 row454 -1
+ col5 row455 -1
+ col5 row456 -1
+ col5 row457 -1
+ col5 row458 -1
+ col5 row459 -1
+ col5 row460 -1
+ col5 row461 -1
+ col5 row462 -1
+ col5 row463 -1
+ col5 row464 -1
+ col5 row465 -1
+ col5 row466 -1
+ col5 row467 -1
+ col5 row468 -1
+ col5 row469 -1
+ col5 row470 -1
+ col5 row471 -1
+ col5 row472 -1
+ col5 row473 -1
+ col5 row474 -1
+ col5 row475 -1
+ col5 row476 -1
+ col5 row477 -1
+ col5 row478 -1
+ col5 row479 -1
+ col5 row480 -1
+ col5 row481 -1
+ col5 row482 -1
+ col5 row483 -1
+ col5 row484 -1
+ col5 row485 -1
+ col5 row486 -1
+ col5 row487 -1
+ col5 row488 -1
+ col5 row489 -1
+ col5 row490 -1
+ col5 row491 -1
+ col5 row492 -1
+ col5 row493 -1
+ col5 row494 -1
+ col5 row495 -1
+ col5 row496 -1
+ col5 row497 -1
+ col5 row498 -1
+ col5 row499 -1
+ col5 row500 -1
+ col5 row501 -1
+ col5 row502 -1
+ col5 row503 -1
+ col5 row504 -1
+ col5 row505 -1
+ col5 row506 -1
+ col5 row507 -1
+ col5 row508 -1
+ col5 row509 -1
+ col5 row510 -1
+ col5 row511 -1
+ col5 row512 -1
+ col5 row513 -1
+ col5 row514 -1
+ col5 row515 -1
+ col5 row516 -1
+ col5 row517 -1
+ col5 row518 -1
+ col5 row519 -1
+ col5 row520 -1
+ col5 row521 -1
+ col5 row522 -1
+ col5 row523 -1
+ col5 row524 -1
+ col5 row525 -1
+ col5 row526 -1
+ col5 row527 -1
+ col5 row528 -1
+ col5 row529 -1
+ col5 row530 -1
+ col5 row531 -1
+ col5 row532 -1
+ col5 row533 -1
+ col5 row534 -1
+ col5 row535 -1
+ col5 row536 -1
+ col5 row537 -1
+ col5 row538 -1
+ col5 row539 -1
+ col5 row540 -1
+ col5 row541 -1
+ col5 row542 -1
+ col5 row543 -1
+ col5 row544 -1
+ col5 row545 -1
+ col5 row546 -1
+ col5 row547 -1
+ col5 row548 -1
+ col5 row549 -1
+ col5 row550 -1
+ col5 row551 -1
+ col5 row552 -1
+ col5 row553 -1
+ col5 row554 -1
+ col5 row555 -1
+ col5 row556 -1
+ col5 row557 -1
+ col5 row558 -1
+ col5 row559 -1
+ col5 row560 -1
+ col5 row561 -1
+ col5 row562 -1
+ col5 row563 -1
+ col5 row564 -1
+ col5 row565 -1
+ col5 row566 -1
+ col5 row567 -1
+ col5 row568 -1
+ col5 row569 -1
+ col5 row570 -1
+ col5 row571 -1
+ col5 row572 -1
+ col5 row573 -1
+ col5 row574 -1
+ col5 row575 -1
+ col5 row576 -1
+ col5 row577 -1
+ col5 row578 -1
+ col5 row579 -1
+ col5 row580 -1
+ col5 row581 -1
+ col5 row582 -1
+ col5 row583 -1
+ col5 row584 -1
+ col5 row585 -1
+ col5 row586 -1
+ col5 row587 -1
+ col5 row588 -1
+ col5 row589 -1
+ col5 row590 -1
+ col5 row591 -1
+ col5 row592 -1
+ col5 row593 -1
+ col5 row594 -1
+ col5 row595 -1
+ col5 row596 -1
+ col5 row597 -1
+ col5 row598 -1
+ col5 row599 -1
+ col5 row600 -1
+ col5 row601 -1
+ col5 row602 -1
+ col5 row603 -1
+ col5 row604 -1
+ col5 row605 -1
+ col5 row606 -1
+ col5 row607 -1
+ col5 row608 -1
+ col5 row609 -1
+ col5 row610 -1
+ col5 row611 -1
+ col5 row612 -1
+ col5 row613 -1
+ col5 row614 -1
+ col5 row615 -1
+ col5 row616 -1
+ col5 row617 -1
+ col5 row618 -1
+ col5 row619 -1
+ col5 row620 -1
+ col5 row621 -1
+ col5 row622 -1
+ col5 row623 -1
+ col5 row624 -1
+ col5 row625 -1
+RHS
+ RHS1 row1 1
+ RHS1 row2 -1
+ RHS1 row3 -1
+ RHS1 row4 -1
+ RHS1 row5 -1
+ RHS1 row6 -1
+ RHS1 row7 -1
+ RHS1 row8 -1
+ RHS1 row9 -1
+ RHS1 row10 -1
+ RHS1 row11 -1
+ RHS1 row12 -1
+ RHS1 row13 -1
+ RHS1 row14 -1
+ RHS1 row15 -1
+ RHS1 row16 -1
+ RHS1 row17 -1
+ RHS1 row18 -1
+ RHS1 row19 -1
+ RHS1 row20 -1
+ RHS1 row21 -1
+ RHS1 row22 -1
+ RHS1 row23 -1
+ RHS1 row24 -1
+ RHS1 row25 -1
+ RHS1 row26 -1
+ RHS1 row27 1
+ RHS1 row28 -1
+ RHS1 row29 -1
+ RHS1 row30 -1
+ RHS1 row31 1
+ RHS1 row32 -1
+ RHS1 row33 -1
+ RHS1 row34 -1
+ RHS1 row35 -1
+ RHS1 row36 -1
+ RHS1 row37 -1
+ RHS1 row38 -1
+ RHS1 row39 -1
+ RHS1 row40 -1
+ RHS1 row41 -1
+ RHS1 row42 -1
+ RHS1 row43 -1
+ RHS1 row44 -1
+ RHS1 row45 -1
+ RHS1 row46 -1
+ RHS1 row47 -1
+ RHS1 row48 -1
+ RHS1 row49 -1
+ RHS1 row50 -1
+ RHS1 row51 -1
+ RHS1 row52 -1
+ RHS1 row53 1
+ RHS1 row54 -1
+ RHS1 row55 -1
+ RHS1 row56 -1
+ RHS1 row57 -1
+ RHS1 row58 -1
+ RHS1 row59 -1
+ RHS1 row60 -1
+ RHS1 row61 1
+ RHS1 row62 -1
+ RHS1 row63 -1
+ RHS1 row64 -1
+ RHS1 row65 -1
+ RHS1 row66 -1
+ RHS1 row67 -1
+ RHS1 row68 -1
+ RHS1 row69 -1
+ RHS1 row70 -1
+ RHS1 row71 -1
+ RHS1 row72 -1
+ RHS1 row73 -1
+ RHS1 row74 -1
+ RHS1 row75 -1
+ RHS1 row76 -1
+ RHS1 row77 -1
+ RHS1 row78 -1
+ RHS1 row79 1
+ RHS1 row80 -1
+ RHS1 row81 -1
+ RHS1 row82 1
+ RHS1 row83 -1
+ RHS1 row84 -1
+ RHS1 row85 -1
+ RHS1 row86 -1
+ RHS1 row87 -1
+ RHS1 row88 -1
+ RHS1 row89 -1
+ RHS1 row90 -1
+ RHS1 row91 1
+ RHS1 row92 -1
+ RHS1 row93 -1
+ RHS1 row94 -1
+ RHS1 row95 -1
+ RHS1 row96 -1
+ RHS1 row97 -1
+ RHS1 row98 -1
+ RHS1 row99 -1
+ RHS1 row100 -1
+ RHS1 row101 -1
+ RHS1 row102 -1
+ RHS1 row103 -1
+ RHS1 row104 -1
+ RHS1 row105 1
+ RHS1 row106 -1
+ RHS1 row107 -1
+ RHS1 row108 -1
+ RHS1 row109 -1
+ RHS1 row110 -1
+ RHS1 row111 -1
+ RHS1 row112 -1
+ RHS1 row113 -1
+ RHS1 row114 -1
+ RHS1 row115 -1
+ RHS1 row116 -1
+ RHS1 row117 -1
+ RHS1 row118 -1
+ RHS1 row119 -1
+ RHS1 row120 -1
+ RHS1 row121 1
+ RHS1 row122 -1
+ RHS1 row123 -1
+ RHS1 row124 -1
+ RHS1 row125 -1
+ RHS1 row126 -1
+ RHS1 row127 1
+ RHS1 row128 -1
+ RHS1 row129 -1
+ RHS1 row130 -1
+ RHS1 row131 1
+ RHS1 row132 -1
+ RHS1 row133 -1
+ RHS1 row134 -1
+ RHS1 row135 -1
+ RHS1 row136 -1
+ RHS1 row137 -1
+ RHS1 row138 -1
+ RHS1 row139 -1
+ RHS1 row140 -1
+ RHS1 row141 -1
+ RHS1 row142 -1
+ RHS1 row143 -1
+ RHS1 row144 -1
+ RHS1 row145 -1
+ RHS1 row146 -1
+ RHS1 row147 -1
+ RHS1 row148 -1
+ RHS1 row149 -1
+ RHS1 row150 -1
+ RHS1 row151 -1
+ RHS1 row152 -1
+ RHS1 row153 -1
+ RHS1 row154 1
+ RHS1 row155 -1
+ RHS1 row156 -1
+ RHS1 row157 1
+ RHS1 row158 -1
+ RHS1 row159 -1
+ RHS1 row160 -1
+ RHS1 row161 -1
+ RHS1 row162 -1
+ RHS1 row163 -1
+ RHS1 row164 -1
+ RHS1 row165 -1
+ RHS1 row166 1
+ RHS1 row167 -1
+ RHS1 row168 -1
+ RHS1 row169 -1
+ RHS1 row170 -1
+ RHS1 row171 -1
+ RHS1 row172 -1
+ RHS1 row173 -1
+ RHS1 row174 -1
+ RHS1 row175 -1
+ RHS1 row176 -1
+ RHS1 row177 -1
+ RHS1 row178 -1
+ RHS1 row179 -1
+ RHS1 row180 -1
+ RHS1 row181 -1
+ RHS1 row182 -1
+ RHS1 row183 1
+ RHS1 row184 -1
+ RHS1 row185 -1
+ RHS1 row186 -1
+ RHS1 row187 1
+ RHS1 row188 -1
+ RHS1 row189 -1
+ RHS1 row190 -1
+ RHS1 row191 -1
+ RHS1 row192 -1
+ RHS1 row193 -1
+ RHS1 row194 -1
+ RHS1 row195 -1
+ RHS1 row196 -1
+ RHS1 row197 -1
+ RHS1 row198 -1
+ RHS1 row199 -1
+ RHS1 row200 -1
+ RHS1 row201 -1
+ RHS1 row202 -1
+ RHS1 row203 -1
+ RHS1 row204 -1
+ RHS1 row205 -1
+ RHS1 row206 -1
+ RHS1 row207 -1
+ RHS1 row208 -1
+ RHS1 row209 1
+ RHS1 row210 -1
+ RHS1 row211 -1
+ RHS1 row212 -1
+ RHS1 row213 -1
+ RHS1 row214 -1
+ RHS1 row215 -1
+ RHS1 row216 -1
+ RHS1 row217 1
+ RHS1 row218 -1
+ RHS1 row219 -1
+ RHS1 row220 -1
+ RHS1 row221 -1
+ RHS1 row222 -1
+ RHS1 row223 -1
+ RHS1 row224 -1
+ RHS1 row225 -1
+ RHS1 row226 -1
+ RHS1 row227 -1
+ RHS1 row228 -1
+ RHS1 row229 -1
+ RHS1 row230 -1
+ RHS1 row231 -1
+ RHS1 row232 -1
+ RHS1 row233 -1
+ RHS1 row234 -1
+ RHS1 row235 1
+ RHS1 row236 -1
+ RHS1 row237 -1
+ RHS1 row238 -1
+ RHS1 row239 -1
+ RHS1 row240 -1
+ RHS1 row241 -1
+ RHS1 row242 -1
+ RHS1 row243 -1
+ RHS1 row244 -1
+ RHS1 row245 -1
+ RHS1 row246 -1
+ RHS1 row247 1
+ RHS1 row248 -1
+ RHS1 row249 -1
+ RHS1 row250 -1
+ RHS1 row251 -1
+ RHS1 row252 -1
+ RHS1 row253 1
+ RHS1 row254 -1
+ RHS1 row255 -1
+ RHS1 row256 -1
+ RHS1 row257 -1
+ RHS1 row258 -1
+ RHS1 row259 -1
+ RHS1 row260 -1
+ RHS1 row261 1
+ RHS1 row262 -1
+ RHS1 row263 -1
+ RHS1 row264 -1
+ RHS1 row265 -1
+ RHS1 row266 -1
+ RHS1 row267 -1
+ RHS1 row268 -1
+ RHS1 row269 -1
+ RHS1 row270 -1
+ RHS1 row271 -1
+ RHS1 row272 -1
+ RHS1 row273 -1
+ RHS1 row274 -1
+ RHS1 row275 -1
+ RHS1 row276 -1
+ RHS1 row277 -1
+ RHS1 row278 -1
+ RHS1 row279 -1
+ RHS1 row280 -1
+ RHS1 row281 -1
+ RHS1 row282 -1
+ RHS1 row283 1
+ RHS1 row284 -1
+ RHS1 row285 -1
+ RHS1 row286 -1
+ RHS1 row287 1
+ RHS1 row288 -1
+ RHS1 row289 -1
+ RHS1 row290 -1
+ RHS1 row291 -1
+ RHS1 row292 -1
+ RHS1 row293 -1
+ RHS1 row294 -1
+ RHS1 row295 -1
+ RHS1 row296 -1
+ RHS1 row297 -1
+ RHS1 row298 -1
+ RHS1 row299 -1
+ RHS1 row300 -1
+ RHS1 row301 -1
+ RHS1 row302 -1
+ RHS1 row303 -1
+ RHS1 row304 -1
+ RHS1 row305 -1
+ RHS1 row306 -1
+ RHS1 row307 -1
+ RHS1 row308 -1
+ RHS1 row309 -1
+ RHS1 row310 -1
+ RHS1 row311 -1
+ RHS1 row312 -1
+ RHS1 row313 1
+ RHS1 row314 -1
+ RHS1 row315 -1
+ RHS1 row316 -1
+ RHS1 row317 -1
+ RHS1 row318 -1
+ RHS1 row319 -1
+ RHS1 row320 -1
+ RHS1 row321 -1
+ RHS1 row322 -1
+ RHS1 row323 -1
+ RHS1 row324 -1
+ RHS1 row325 -1
+ RHS1 row326 -1
+ RHS1 row327 -1
+ RHS1 row328 -1
+ RHS1 row329 -1
+ RHS1 row330 -1
+ RHS1 row331 -1
+ RHS1 row332 -1
+ RHS1 row333 -1
+ RHS1 row334 -1
+ RHS1 row335 -1
+ RHS1 row336 -1
+ RHS1 row337 -1
+ RHS1 row338 -1
+ RHS1 row339 1
+ RHS1 row340 -1
+ RHS1 row341 -1
+ RHS1 row342 -1
+ RHS1 row343 1
+ RHS1 row344 -1
+ RHS1 row345 -1
+ RHS1 row346 -1
+ RHS1 row347 -1
+ RHS1 row348 -1
+ RHS1 row349 -1
+ RHS1 row350 -1
+ RHS1 row351 -1
+ RHS1 row352 -1
+ RHS1 row353 -1
+ RHS1 row354 -1
+ RHS1 row355 -1
+ RHS1 row356 -1
+ RHS1 row357 -1
+ RHS1 row358 -1
+ RHS1 row359 -1
+ RHS1 row360 -1
+ RHS1 row361 -1
+ RHS1 row362 -1
+ RHS1 row363 -1
+ RHS1 row364 -1
+ RHS1 row365 1
+ RHS1 row366 -1
+ RHS1 row367 -1
+ RHS1 row368 -1
+ RHS1 row369 -1
+ RHS1 row370 -1
+ RHS1 row371 -1
+ RHS1 row372 -1
+ RHS1 row373 1
+ RHS1 row374 -1
+ RHS1 row375 -1
+ RHS1 row376 -1
+ RHS1 row377 -1
+ RHS1 row378 -1
+ RHS1 row379 1
+ RHS1 row380 -1
+ RHS1 row381 -1
+ RHS1 row382 1
+ RHS1 row383 -1
+ RHS1 row384 -1
+ RHS1 row385 -1
+ RHS1 row386 -1
+ RHS1 row387 -1
+ RHS1 row388 -1
+ RHS1 row389 -1
+ RHS1 row390 -1
+ RHS1 row391 1
+ RHS1 row392 -1
+ RHS1 row393 -1
+ RHS1 row394 -1
+ RHS1 row395 -1
+ RHS1 row396 -1
+ RHS1 row397 -1
+ RHS1 row398 -1
+ RHS1 row399 -1
+ RHS1 row400 -1
+ RHS1 row401 -1
+ RHS1 row402 -1
+ RHS1 row403 -1
+ RHS1 row404 -1
+ RHS1 row405 -1
+ RHS1 row406 -1
+ RHS1 row407 -1
+ RHS1 row408 -1
+ RHS1 row409 1
+ RHS1 row410 -1
+ RHS1 row411 -1
+ RHS1 row412 -1
+ RHS1 row413 -1
+ RHS1 row414 -1
+ RHS1 row415 -1
+ RHS1 row416 -1
+ RHS1 row417 1
+ RHS1 row418 -1
+ RHS1 row419 -1
+ RHS1 row420 -1
+ RHS1 row421 -1
+ RHS1 row422 -1
+ RHS1 row423 -1
+ RHS1 row424 -1
+ RHS1 row425 -1
+ RHS1 row426 -1
+ RHS1 row427 -1
+ RHS1 row428 -1
+ RHS1 row429 -1
+ RHS1 row430 -1
+ RHS1 row431 -1
+ RHS1 row432 -1
+ RHS1 row433 -1
+ RHS1 row434 -1
+ RHS1 row435 -1
+ RHS1 row436 -1
+ RHS1 row437 -1
+ RHS1 row438 -1
+ RHS1 row439 1
+ RHS1 row440 -1
+ RHS1 row441 -1
+ RHS1 row442 -1
+ RHS1 row443 1
+ RHS1 row444 -1
+ RHS1 row445 -1
+ RHS1 row446 -1
+ RHS1 row447 -1
+ RHS1 row448 -1
+ RHS1 row449 -1
+ RHS1 row450 -1
+ RHS1 row451 -1
+ RHS1 row452 -1
+ RHS1 row453 -1
+ RHS1 row454 -1
+ RHS1 row455 -1
+ RHS1 row456 -1
+ RHS1 row457 -1
+ RHS1 row458 -1
+ RHS1 row459 -1
+ RHS1 row460 -1
+ RHS1 row461 -1
+ RHS1 row462 -1
+ RHS1 row463 -1
+ RHS1 row464 -1
+ RHS1 row465 -1
+ RHS1 row466 -1
+ RHS1 row467 -1
+ RHS1 row468 -1
+ RHS1 row469 1
+ RHS1 row470 -1
+ RHS1 row471 -1
+ RHS1 row472 -1
+ RHS1 row473 -1
+ RHS1 row474 -1
+ RHS1 row475 -1
+ RHS1 row476 -1
+ RHS1 row477 -1
+ RHS1 row478 -1
+ RHS1 row479 -1
+ RHS1 row480 -1
+ RHS1 row481 -1
+ RHS1 row482 -1
+ RHS1 row483 -1
+ RHS1 row484 -1
+ RHS1 row485 -1
+ RHS1 row486 -1
+ RHS1 row487 -1
+ RHS1 row488 -1
+ RHS1 row489 -1
+ RHS1 row490 -1
+ RHS1 row491 -1
+ RHS1 row492 -1
+ RHS1 row493 -1
+ RHS1 row494 -1
+ RHS1 row495 1
+ RHS1 row496 -1
+ RHS1 row497 -1
+ RHS1 row498 -1
+ RHS1 row499 1
+ RHS1 row500 -1
+ RHS1 row501 -1
+ RHS1 row502 -1
+ RHS1 row503 -1
+ RHS1 row504 -1
+ RHS1 row505 1
+ RHS1 row506 -1
+ RHS1 row507 -1
+ RHS1 row508 -1
+ RHS1 row509 -1
+ RHS1 row510 -1
+ RHS1 row511 -1
+ RHS1 row512 -1
+ RHS1 row513 -1
+ RHS1 row514 -1
+ RHS1 row515 -1
+ RHS1 row516 -1
+ RHS1 row517 -1
+ RHS1 row518 -1
+ RHS1 row519 -1
+ RHS1 row520 -1
+ RHS1 row521 1
+ RHS1 row522 -1
+ RHS1 row523 -1
+ RHS1 row524 -1
+ RHS1 row525 -1
+ RHS1 row526 -1
+ RHS1 row527 -1
+ RHS1 row528 -1
+ RHS1 row529 -1
+ RHS1 row530 -1
+ RHS1 row531 -1
+ RHS1 row532 -1
+ RHS1 row533 -1
+ RHS1 row534 -1
+ RHS1 row535 1
+ RHS1 row536 -1
+ RHS1 row537 -1
+ RHS1 row538 -1
+ RHS1 row539 -1
+ RHS1 row540 -1
+ RHS1 row541 -1
+ RHS1 row542 -1
+ RHS1 row543 -1
+ RHS1 row544 -1
+ RHS1 row545 -1
+ RHS1 row546 -1
+ RHS1 row547 1
+ RHS1 row548 -1
+ RHS1 row549 -1
+ RHS1 row550 -1
+ RHS1 row551 -1
+ RHS1 row552 -1
+ RHS1 row553 -1
+ RHS1 row554 -1
+ RHS1 row555 -1
+ RHS1 row556 -1
+ RHS1 row557 -1
+ RHS1 row558 -1
+ RHS1 row559 -1
+ RHS1 row560 -1
+ RHS1 row561 -1
+ RHS1 row562 -1
+ RHS1 row563 -1
+ RHS1 row564 -1
+ RHS1 row565 1
+ RHS1 row566 -1
+ RHS1 row567 -1
+ RHS1 row568 -1
+ RHS1 row569 -1
+ RHS1 row570 -1
+ RHS1 row571 -1
+ RHS1 row572 -1
+ RHS1 row573 1
+ RHS1 row574 -1
+ RHS1 row575 -1
+ RHS1 row576 -1
+ RHS1 row577 -1
+ RHS1 row578 -1
+ RHS1 row579 -1
+ RHS1 row580 -1
+ RHS1 row581 -1
+ RHS1 row582 -1
+ RHS1 row583 -1
+ RHS1 row584 -1
+ RHS1 row585 -1
+ RHS1 row586 -1
+ RHS1 row587 -1
+ RHS1 row588 -1
+ RHS1 row589 -1
+ RHS1 row590 -1
+ RHS1 row591 -1
+ RHS1 row592 -1
+ RHS1 row593 -1
+ RHS1 row594 -1
+ RHS1 row595 1
+ RHS1 row596 -1
+ RHS1 row597 -1
+ RHS1 row598 -1
+ RHS1 row599 1
+ RHS1 row600 -1
+ RHS1 row601 -1
+ RHS1 row602 -1
+ RHS1 row603 -1
+ RHS1 row604 -1
+ RHS1 row605 -1
+ RHS1 row606 -1
+ RHS1 row607 -1
+ RHS1 row608 -1
+ RHS1 row609 -1
+ RHS1 row610 -1
+ RHS1 row611 -1
+ RHS1 row612 -1
+ RHS1 row613 -1
+ RHS1 row614 -1
+ RHS1 row615 -1
+ RHS1 row616 -1
+ RHS1 row617 -1
+ RHS1 row618 -1
+ RHS1 row619 -1
+ RHS1 row620 -1
+ RHS1 row621 -1
+ RHS1 row622 -1
+ RHS1 row623 -1
+ RHS1 row624 -1
+ RHS1 row625 1
+ENDATA
