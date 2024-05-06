@@ -1,8 +1,10 @@
 # InfeasibleLPs
-A collection of infeasible linear programming models.
+May 6, 2024.
 
-## Infeasible LPs from Classification Data
-John W. Chinneck. April 25, 2024.
+Two collection of infeasible linear programming models.
+
+## Set 1: Infeasible LPs from Classification Data
+John W. Chinneck. 
 
 This is a collection of infeasible linear programming models that are
 created from classification datasets, via the transformation described
@@ -38,6 +40,8 @@ characteristics:
 
   - Models typically have numerous Irreducible Infeasible Subsets (IISs) 
     of constraints. Different solvers will likely isolate different IISs.
+    Because of the numerous IISs these are good models for testing methods
+    for finding maximum feasible subsets (the maxFS problem).
 
 The list of models follows below, with model size data and information on
 the IIS isolated by the Gurobi 9.5.1 solver. All files are in MPS format.
@@ -155,3 +159,18 @@ IC-wine-LB.mps\
 178 rows, 14 columns, 2492 nonzeros\
 All variables lower bounded at zero\
 Gurobi IIS: 7 constraints and 8 bounds
+
+## Set 2: Infeasible LPs by Converting Netlib LPs
+
+These are based on feasible LPs in the netlib collection at 
+https://www.netlib.org/lp/data/index.html that are converted by
+(1) finding the minimum of the objective function, (2) constructing
+a constraint using the objective function that limits its value
+to no more than the optimum, and (3) flipping the sense of the
+first loose inequality constraint in the optimum solution.
+
+There are 26 models in this collection. The naming convention is
+INF-<netlib model name>.mps.
+
+These files are collected in a single zipped archive named 
+INFfromNetlibLPs.7z
