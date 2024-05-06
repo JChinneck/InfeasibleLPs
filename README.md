@@ -169,7 +169,7 @@ a constraint using the objective function that limits its value
 to no more than the optimum, and (3) flipping the sense of the
 first loose inequality constraint in the optimum solution.
 
-There are 26 models in this collection. The naming convention is
+There are 18 models in this collection. The naming convention is
 INF-<netlib model name>.mps.
 
 These files are collected in a single zipped archive named 
