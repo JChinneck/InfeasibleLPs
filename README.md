@@ -1,7 +1,7 @@
 # InfeasibleLPs
 May 6, 2024.
 
-Two collection of infeasible linear programming models.
+Two collections of infeasible linear programming models.
 
 ## Set 1: Infeasible LPs from Classification Data
 John W. Chinneck. 
