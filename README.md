@@ -160,17 +160,55 @@ IC-wine-LB.mps\
 All variables lower bounded at zero\
 Gurobi IIS: 7 constraints and 8 bounds
 
-## Set 2: Infeasible LPs by Converting Netlib LPs
+## Set 2: Infeasible LPs Derived from Netlib LPs
 
-These are based on feasible LPs in the netlib collection at 
-https://www.netlib.org/lp/data/index.html that are converted by
-(1) finding the minimum of the objective function, (2) constructing
-a constraint using the objective function that limits its value
-to no more than the optimum, and (3) flipping the sense of the
-first loose inequality constraint in the optimum solution.
-
-There are 18 models in this collection. The naming convention is
-INF-<netlib model name>.mps.
+These infeasible models are derived from feasible LPs in the netlib collection at 
+https://www.netlib.org/lp/data/index.html. They are made infeasible
+in two different ways. The naming convention is
+INF-(netlib model name).mps or INF2-(netlib model name).mps,
+depending on the conversion technique applied. Some models were
+converted both ways. There are 37 models in this collection. 
 
 These files are collected in a single zipped archive named 
 INFfromNetlibLPs.7z
+
+Statistics on the sizes of the IISs found by Gurobi 9.5.1
+follow below:
+
+INF-adlittle: 46 rows, 32 bounds\
+INF2-adlittle: 3 rows, 6 bounds\
+INF-agg2: 7 rows, 22 bounds\
+INF2-agg2: 4 rows, 5 bounds\
+INF-agg3: 4 rows, 6 bounds\
+INF2-agg3: 4 rows, 5 bounds\
+INF-brandy: 152 rows, 85 bounds\
+INF2-brandy: 8 rows, 0 bounds\
+INF-capri: 190 rows, 98 bounds\
+INF-d2q06c: 1737 rows, 3555 bounds\
+INF2-d2q06c: 58 rows, 251 bounds\
+INF-fffff800: 389 rows, 259 bounds\
+INF2-fffff800: 3 rows, 3 bounds\
+INF-fit2d: 22 rows, 10479 bounds\
+INF2-fit2d: 22 rows, 10476 bounds\
+INF-israel: 55 rows, 66 bounds\
+INF-lotfi: 91 rows, 178 bounds\
+INF2-lotfi: 27 rows, 33 bounds\
+INF-osa-14: 783 rows, 51674 bounds\
+INF-osa-30: 1518 rows, 98318 bounds\
+INF-pilot4: 332 rows, 518 bounds\
+INF-pilot-we: 678 rows, 2092 bounds\
+INF-sc50a: 36 rows, 3 bounds\
+INF-sc105: 7 rows, 1 bound\
+INF-sc205: 7 rows, 1 bound\
+INF-scfxm1: 20 rows, 22 bounds\
+INF2-scfxm1: 13 rows, 16 bounds\
+INF-scfxm2: 20 rows, 22 bounds\
+INF-scfxm3: 25 rows, 24 bounds\
+INF2-scfxm3: 13 rows, 16 bounds\
+INF-share1b: 88 rows, 131 bounds\
+INF2-share1b: 2 rows, 10 bounds\
+INF-ship04l: 316 rows, 3 bounds\
+INF-ship08l: 478 rows, 17 bounds\
+INF-ship12l: 938 rows, 10 bounds\
+INF-stocfor3: 12567 rows, 3129 bounds\
+
