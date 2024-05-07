@@ -210,5 +210,5 @@ INF2-share1b: 2 rows, 10 bounds\
 INF-ship04l: 316 rows, 3 bounds\
 INF-ship08l: 478 rows, 17 bounds\
 INF-ship12l: 938 rows, 10 bounds\
-INF-stocfor3: 12567 rows, 3129 bounds\
+INF-stocfor3: 12567 rows, 3129 bounds
 
