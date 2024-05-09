@@ -1,11 +1,10 @@
 # InfeasibleLPs
-May 9, 2024.
+John W. Chinneck. May 9, 2024.
 
 Two collections of infeasible linear programming models. All models 
 include an empty objective function OBJFCN.
 
 ## Set 1: Infeasible LPs from Classification Data
-John W. Chinneck. 
 
 This is a collection of 21 infeasible linear programming models that are
 created from classification datasets, via the transformation described
