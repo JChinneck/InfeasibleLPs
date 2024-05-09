@@ -1,12 +1,13 @@
 # InfeasibleLPs
 May 7, 2024.
 
-Two collections of infeasible linear programming models.
+Two collections of infeasible linear programming models. All models 
+include an empty objective function OBJFCN.
 
 ## Set 1: Infeasible LPs from Classification Data
 John W. Chinneck. 
 
-This is a collection of infeasible linear programming models that are
+This is a collection of 21 infeasible linear programming models that are
 created from classification datasets, via the transformation described
 in these papers:
 
@@ -26,8 +27,6 @@ in these papers:
 As a consequence of how they are constructed, the models have these
 characteristics:
 
-  - There is no objective function.
-
   - All row constraints are inequalities. There are no equality
     constraints.
 
@@ -45,6 +44,7 @@ characteristics:
 
 The list of models follows below, with model size data and information on
 the IIS isolated by the Gurobi 9.5.1 solver. All files are in MPS format.
+They are collected in the zipped file INFfromClassificationData.7z.
 
 **Naming conventions.** All models have an initial "IC" that indicates that it
 is an "Infeasible model from Classification data". A trailing "-LB" indicates 
