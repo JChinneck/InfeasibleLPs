@@ -1,5 +1,5 @@
 # InfeasibleLPs
-John W. Chinneck. May 9, 2024.
+John W. Chinneck. October 28, 2024.
 
 Two collections of infeasible linear programming models. All models 
 include an empty objective function OBJFCN.
@@ -210,4 +210,15 @@ INF-ship04l: 316 rows, 3 bounds\
 INF-ship08l: 478 rows, 17 bounds\
 INF-ship12l: 938 rows, 10 bounds\
 INF-stocfor3: 12567 rows, 3129 bounds
+
+## Set 3: EXPAND: Large Infeasible LPs for Presolver Testing
+
+There are 20 large infeasible LP models in the expand.zip set. These are 
+synthetic, created by building out from a relatively small set of base 
+constraints, e.g. by using multiples or combinations of the constraints
+in ways that are often detected by presolvers. Infeasibility is easily
+detected by presolving in 10 of the models, and is difficult to detect in
+the other 10 models.
+
+Created and donated by Cho Ho (Peter) Lam of Huawei Technologies Canada.
 
