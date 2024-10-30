@@ -222,3 +222,9 @@ the other 10 models.
 
 Created and donated by Cho Ho (Peter) Lam of Huawei Technologies Canada.
 
+## Set 4: Contributed Infeasible LPs
+
+**Arts.mps**
+*Donor*: Joachim Arts, Luxembourg Centre for Logistics and Supply Chain Management (LCL). joachim.arts@uni.lu  
+*Description*: The origin of the model is the LP relaxation of an instance proposed by my co-authors and I in Arts, J., Flapper,  S.D. (2015) Aggregate overhaul and supply chain planning for rotables. Annals of Operations Research 224(1):77-100. 
+*Gurobi 9.5.1 IIS*: 1194 constraints, 788 bounds. 9.17 seconds.
