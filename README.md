@@ -1,8 +1,7 @@
 # InfeasibleLPs
-John W. Chinneck. October 28, 2024.
+John W. Chinneck. October 30, 2024.
 
-Two collections of infeasible linear programming models. All models 
-include an empty objective function OBJFCN.
+Four collections of infeasible linear programming models. 
 
 ## Set 1: Infeasible LPs from Classification Data
 
@@ -40,6 +39,8 @@ characteristics:
     of constraints. Different solvers will likely isolate different IISs.
     Because of the numerous IISs these are good models for testing methods
     for finding maximum feasible subsets (the maxFS problem).
+
+  - All models include an empty objective function OBJFCN.
 
 The list of models follows below, with model size data and information on
 the IIS isolated by the Gurobi 9.5.1 solver. All files are in MPS format.
@@ -169,7 +170,7 @@ depending on the conversion technique applied. Some models were
 converted both ways. There are 37 models in this collection. 
 
 These files are collected in a single zipped archive named 
-INFfromNetlibLPs.7z
+INFfromNetlibLPs.7z. All models include an empty objective function OBJFCN.
 
 Statistics on the sizes of the IISs found by Gurobi 9.5.1
 follow below:
@@ -225,6 +226,9 @@ Created and donated by Cho Ho (Peter) Lam of Huawei Technologies Canada.
 ## Set 4: Contributed Infeasible LPs
 
 **Arts.mps**
+
 *Donor*: Joachim Arts, Luxembourg Centre for Logistics and Supply Chain Management (LCL). joachim.arts@uni.lu  
-*Description*: The origin of the model is the LP relaxation of an instance proposed by my co-authors and I in Arts, J., Flapper,  S.D. (2015) Aggregate overhaul and supply chain planning for rotables. Annals of Operations Research 224(1):77-100. 
+
+*Description*: The origin of the model is the LP relaxation of an instance proposed by my co-authors and I in Arts, J., Flapper,  S.D. (2015) Aggregate overhaul and supply chain planning for rotables. Annals of Operations Research 224(1):77-100.
+
 *Gurobi 9.5.1 IIS*: 1194 constraints, 788 bounds. 9.17 seconds.
