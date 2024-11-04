@@ -233,7 +233,7 @@ Created and donated by Cho Ho (Peter) Lam of Huawei Technologies Canada.
 
 *Gurobi 9.5.1 IIS*: 1194 constraints, 788 bounds. 9.17 seconds.
 
-## Set 5: Other respositories on the Web
+## Set 5: Other Repositories of Infeasible LPs on the Web
 
 Pointers from Marc Pfetsch, TU Darmstadt.
 
