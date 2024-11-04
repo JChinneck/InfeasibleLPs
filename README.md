@@ -240,4 +240,5 @@ Pointers from Marc Pfetsch, TU Darmstadt.
 *Maximum Feasible Subset Repository*:  https://github.com/MaxFeasibleSubsystem/instances
 These instances were collected to test algorithms for finding the maximum feasible subset in a set of infeasible linear constraints, but can also be used for testing algorithms to find IISs.
 
-*BARON Repository*: The *Inf* collection consists of infeasible linear, nonlinear and mixed-integer nonlinear optimization problems available in BARON, GAMS, MATLAB and PYOMO format. These derive from: Puranik, Y. and N. V. Sahinidis, Deletion presolve for accelerating infeasibility diagnosis in optimization models, INFORMS Journal on Computing, 29, 754-766, 2017.
+*BARON Repository*: https://minlp.com/optimization-test-problems
+The *Inf* collection consists of infeasible linear, nonlinear and mixed-integer nonlinear optimization problems available in BARON, GAMS, MATLAB and PYOMO format. These derive from: Puranik, Y. and N. V. Sahinidis, Deletion presolve for accelerating infeasibility diagnosis in optimization models, INFORMS Journal on Computing, 29, 754-766, 2017.
