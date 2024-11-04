@@ -1,7 +1,7 @@
 # InfeasibleLPs
-John W. Chinneck. October 30, 2024.
+John W. Chinneck. November 4, 2024.
 
-Four collections of infeasible linear programming models. 
+Five collections of infeasible linear programming models. 
 
 ## Set 1: Infeasible LPs from Classification Data
 
@@ -232,3 +232,12 @@ Created and donated by Cho Ho (Peter) Lam of Huawei Technologies Canada.
 *Description*: The origin of the model is the LP relaxation of an instance proposed by my co-authors and I in Arts, J., Flapper,  S.D. (2015) Aggregate overhaul and supply chain planning for rotables. Annals of Operations Research 224(1):77-100.
 
 *Gurobi 9.5.1 IIS*: 1194 constraints, 788 bounds. 9.17 seconds.
+
+## Set 5: Other respositories on the Web
+
+Pointers from Marc Pfetsch, TU Darmstadt.
+
+*Maximum Feasible Subset Repository*:  https://github.com/MaxFeasibleSubsystem/instances
+These instances were collected to test algorithms for finding the maximum feasible subset in a set of infeasible linear constraints, but can also be used for testing algorithms to find IISs.
+
+*BARON Repository*: The *Inf* collection consists of infeasible linear, nonlinear and mixed-integer nonlinear optimization problems available in BARON, GAMS, MATLAB and PYOMO format. These derive from: Puranik, Y. and N. V. Sahinidis, Deletion presolve for accelerating infeasibility diagnosis in optimization models, INFORMS Journal on Computing, 29, 754-766, 2017.
