@@ -1,5 +1,5 @@
 # InfeasibleLPs
-John W. Chinneck. November 4, 2024.
+John W. Chinneck. December 9, 2025.
 
 Five collections of infeasible linear programming models. 
 
@@ -235,7 +235,8 @@ Created and donated by Cho Ho (Peter) Lam of Huawei Technologies Canada.
 
 ## Set 5: Other Repositories of Infeasible LPs on the Web
 
-Pointers from Marc Pfetsch, TU Darmstadt.
+*Original netlib set*: https://www.netlib.org/lp/infeas/
+These are relatively small instances.
 
 *Maximum Feasible Subset Repository*:  https://github.com/MaxFeasibleSubsystem/instances
 These instances were collected to test algorithms for finding the maximum feasible subset in a set of infeasible linear constraints, but can also be used for testing algorithms to find IISs.
